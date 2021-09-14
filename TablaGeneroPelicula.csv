@@ -1,13 +1,10 @@
-idPelicula,Genero,EsPrincipal
-1,Horror,true
-1,Comedia,false
-1,Animada,false
-2,Animada,true
-2,Ciencia Ficción,false
-3,Comedia,true
-3,Animada,false
-3,Aventura,false
-4,Comedia,true
-4,Animada,false
-5,Horror,true
-5,Suspenso,false
+idPelicula,Genero,subgenero
+1,Horror,Horror
+1,Horror,Infantil
+2,Comedia,Comedia Negra
+2,Comedia,Disparatada
+2,Comedia,Parodias
+3,Aventura,Antología
+4,Aventura,Ciencia Ficción
+5,Horror,Infantil
+5,Horror,Horror
