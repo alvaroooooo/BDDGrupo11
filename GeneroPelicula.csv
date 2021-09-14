@@ -1,0 +1,13 @@
+idPelicula,Genero,EsPrincipal
+1,Animada,true
+1,Ciencia Ficción,false
+1,Horror,false
+2,Suspenso,true
+2,Horror,false
+3,Animada,true
+3,Comedia,false
+4,Animada,true
+4,Comedia,false
+4,Suspenso,false
+5,Animada,true
+5,Suspenso,false
