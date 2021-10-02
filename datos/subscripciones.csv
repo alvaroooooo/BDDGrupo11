@@ -1,0 +1,420 @@
+id,estado,fecha_inicio,pro_id,uid,fecha_termino,proveedor,costo
+352,activa,2020-06-20,7,119,,Star+,7100
+340,activa,2020-08-20,20,5,,DCCanal,4000
+170,activa,2020-06-02,9,14,,Showtime,3200
+245,activa,2021-05-31,9,50,,Showtime,3200
+324,activa,2020-08-25,10,63,,Stan,7900
+354,cancelada,2021-11-22,1,119,2021-12-18,Netflix,4500
+323,activa,2020-10-30,1,63,,Netflix,4500
+391,cancelada,2021-05-27,6,106,2021-07-24,Disney+,6500
+80,cancelada,2021-08-27,8,67,2021-12-09,Hulu,7000
+189,cancelada,2021-07-13,6,13,2021-12-16,Disney+,6500
+63,activa,2020-12-20,18,10,,ATRESplayer,2800
+150,activa,2021-01-24,20,71,,DCCanal,4000
+7,cancelada,2020-06-10,5,141,2021-07-26,Funimation,3900
+244,activa,2020-08-02,2,50,,Amazon Prime Video,3700
+278,cancelada,2020-11-10,10,46,2021-03-16,Stan,7900
+286,activa,2020-10-23,18,77,,ATRESplayer,2800
+196,activa,2021-06-25,7,43,,Star+,7100
+48,cancelada,2020-08-28,5,41,2021-01-26,Funimation,3900
+19,activa,2021-10-26,18,59,,ATRESplayer,2800
+56,cancelada,2021-09-18,9,108,2021-12-10,Showtime,3200
+97,activa,2020-09-09,19,92,,Mitele Plus,3700
+198,cancelada,2021-09-12,14,43,2021-11-16,Movistar+ Lite,7400
+50,activa,2021-04-09,11,41,,Peackok,4000
+350,activa,2021-05-31,9,52,,Showtime,3200
+284,activa,2020-09-22,4,77,,HBO+,3500
+319,activa,2021-07-29,16,134,,Rakuten TV,6500
+14,activa,2021-05-21,16,45,,Rakuten TV,6500
+96,cancelada,2021-03-05,1,92,2021-05-12,Netflix,4500
+285,activa,2020-07-04,6,77,,Disney+,6500
+24,cancelada,2021-05-06,9,146,2021-11-10,Showtime,3200
+34,cancelada,2020-08-08,5,47,2021-10-01,Funimation,3900
+202,activa,2021-06-25,13,15,,Sony Liv,3100
+237,cancelada,2020-09-28,16,54,2021-07-04,Rakuten TV,6500
+124,activa,2020-06-11,3,2,,Crunchyroll,4400
+304,cancelada,2020-10-03,2,24,2021-08-12,Amazon Prime Video,3700
+54,activa,2021-06-25,2,108,,Amazon Prime Video,3700
+399,cancelada,2020-11-30,7,4,2021-10-02,Star+,7100
+303,activa,2020-10-07,18,24,,ATRESplayer,2800
+128,activa,2021-02-27,18,68,,ATRESplayer,2800
+121,activa,2020-12-13,10,2,,Stan,7900
+127,activa,2021-07-09,2,39,,Amazon Prime Video,3700
+262,activa,2021-08-04,10,3,,Stan,7900
+86,activa,2021-05-21,14,69,,Movistar+ Lite,7400
+131,cancelada,2021-05-19,10,74,2021-11-18,Stan,7900
+10,activa,2021-01-04,7,35,,Star+,7100
+61,cancelada,2021-07-12,6,60,2021-09-28,Disney+,6500
+227,activa,2021-03-25,4,97,,HBO+,3500
+401,cancelada,2020-09-14,18,38,2021-08-06,ATRESplayer,2800
+8,cancelada,2020-05-06,9,141,2021-04-26,Showtime,3200
+139,cancelada,2020-06-13,15,55,2021-09-24,Discovery+,3700
+371,activa,2021-04-12,4,73,,HBO+,3500
+152,cancelada,2021-04-14,10,71,2021-10-03,Stan,7900
+178,cancelada,2021-03-28,10,34,2021-10-31,Stan,7900
+82,cancelada,2020-07-27,8,133,2021-07-06,Hulu,7000
+20,cancelada,2020-08-26,13,59,2021-06-13,Sony Liv,3100
+297,activa,2021-08-16,18,49,,ATRESplayer,2800
+45,activa,2021-09-11,2,105,,Amazon Prime Video,3700
+410,activa,2020-08-14,12,115,,Viu,5000
+258,activa,2020-07-07,11,56,,Peackok,4000
+381,cancelada,2020-08-05,8,1,2020-11-26,Hulu,7000
+204,activa,2021-11-05,14,15,,Movistar+ Lite,7400
+407,activa,2020-11-11,11,115,,Peackok,4000
+146,activa,2020-10-04,5,75,,Funimation,3900
+156,activa,2020-06-14,13,57,,Sony Liv,3100
+312,activa,2021-11-23,18,31,,ATRESplayer,2800
+184,cancelada,2021-05-25,7,21,2021-07-07,Star+,7100
+5,activa,2020-11-01,13,48,,Sony Liv,3100
+135,activa,2020-10-22,6,74,,Disney+,6500
+264,activa,2021-06-04,4,87,,HBO+,3500
+9,cancelada,2021-01-30,14,141,2021-04-18,Movistar+ Lite,7400
+109,cancelada,2021-02-22,19,37,2021-11-30,Mitele Plus,3700
+89,activa,2020-05-15,8,70,,Hulu,7000
+382,cancelada,2021-11-13,12,1,2021-11-24,Viu,5000
+158,activa,2021-05-17,15,58,,Discovery+,3700
+120,activa,2020-07-28,8,2,,Hulu,7000
+60,cancelada,2020-10-29,4,60,2021-09-11,HBO+,3500
+176,activa,2020-08-06,15,12,,Discovery+,3700
+320,activa,2020-09-21,12,134,,Viu,5000
+301,activa,2021-03-16,9,65,,Showtime,3200
+65,activa,2020-08-15,12,10,,Viu,5000
+404,activa,2021-11-06,10,93,,Stan,7900
+254,activa,2021-02-23,18,16,,ATRESplayer,2800
+293,activa,2020-06-06,2,49,,Amazon Prime Video,3700
+68,activa,2021-05-12,6,66,,Disney+,6500
+83,cancelada,2021-09-20,16,133,2021-10-12,Rakuten TV,6500
+281,cancelada,2021-08-15,17,46,2021-11-01,Sky,6400
+380,cancelada,2021-12-12,10,1,2021-12-18,Stan,7900
+149,cancelada,2021-12-10,14,75,2021-12-17,Movistar+ Lite,7400
+66,activa,2021-07-30,5,10,,Funimation,3900
+242,activa,2021-10-29,10,54,,Stan,7900
+220,activa,2021-02-10,14,19,,Movistar+ Lite,7400
+292,activa,2020-07-13,4,26,,HBO+,3500
+231,activa,2021-06-30,15,28,,Discovery+,3700
+107,activa,2021-06-15,4,37,,HBO+,3500
+6,activa,2020-10-13,15,141,,Discovery+,3700
+100,activa,2021-02-28,17,33,,Sky,6400
+336,activa,2021-02-16,19,8,,Mitele Plus,3700
+23,activa,2020-09-29,16,40,,Rakuten TV,6500
+55,activa,2021-01-30,10,108,,Stan,7900
+141,activa,2020-07-24,16,36,,Rakuten TV,6500
+232,activa,2020-05-05,13,28,,Sony Liv,3100
+155,cancelada,2020-05-14,15,57,2020-08-25,Discovery+,3700
+78,activa,2021-03-09,5,67,,Funimation,3900
+153,activa,2021-01-17,7,57,,Star+,7100
+44,activa,2021-01-05,10,105,,Stan,7900
+12,activa,2021-06-20,16,35,,Rakuten TV,6500
+104,activa,2021-09-22,14,33,,Movistar+ Lite,7400
+251,cancelada,2021-07-12,5,16,2021-11-20,Funimation,3900
+364,activa,2021-02-23,7,64,,Star+,7100
+307,cancelada,2020-10-13,16,11,2021-06-30,Rakuten TV,6500
+32,activa,2021-04-25,2,32,,Amazon Prime Video,3700
+413,activa,2020-07-09,2,115,,Amazon Prime Video,3700
+194,activa,2021-01-07,9,13,,Showtime,3200
+240,activa,2021-11-24,9,54,,Showtime,3200
+145,activa,2021-01-23,20,36,,DCCanal,4000
+338,activa,2020-08-28,13,5,,Sony Liv,3100
+90,activa,2021-02-15,1,70,,Netflix,4500
+94,cancelada,2020-10-12,6,92,2021-02-03,Disney+,6500
+1,cancelada,2021-06-08,8,29,2021-09-02,Hulu,7000
+357,activa,2020-08-18,19,119,,Mitele Plus,3700
+52,activa,2021-05-05,4,27,,HBO+,3500
+18,cancelada,2021-07-02,19,59,2021-10-12,Mitele Plus,3700
+142,cancelada,2020-05-30,4,36,2021-01-02,HBO+,3500
+77,cancelada,2020-06-05,2,44,2020-11-20,Amazon Prime Video,3700
+166,activa,2020-11-08,20,14,,DCCanal,4000
+201,activa,2020-12-01,20,15,,DCCanal,4000
+81,activa,2021-08-26,18,67,,ATRESplayer,2800
+3,activa,2020-09-21,20,48,,DCCanal,4000
+291,cancelada,2021-07-01,11,26,2021-08-11,Peackok,4000
+389,cancelada,2020-06-08,12,106,2021-05-26,Viu,5000
+88,activa,2020-11-04,4,70,,HBO+,3500
+408,cancelada,2020-12-24,8,115,2021-11-09,Hulu,7000
+2,activa,2020-09-27,16,48,,Rakuten TV,6500
+316,cancelada,2021-06-30,5,134,2021-10-05,Funimation,3900
+266,activa,2021-08-21,5,95,,Funimation,3900
+415,activa,2020-06-28,11,6,,Peackok,4000
+102,activa,2021-09-28,10,33,,Stan,7900
+377,activa,2020-12-12,13,1,,Sony Liv,3100
+143,activa,2021-07-03,6,36,,Disney+,6500
+62,cancelada,2020-08-17,13,42,2021-05-17,Sony Liv,3100
+17,activa,2020-09-15,18,82,,ATRESplayer,2800
+192,activa,2020-07-07,5,13,,Funimation,3900
+205,activa,2021-05-29,20,22,,DCCanal,4000
+300,activa,2020-12-03,11,65,,Peackok,4000
+235,activa,2021-07-21,12,54,,Viu,5000
+228,activa,2021-04-15,9,97,,Showtime,3200
+387,activa,2021-09-08,10,142,,Stan,7900
+159,activa,2021-07-02,4,58,,HBO+,3500
+398,cancelada,2020-07-25,5,4,2020-10-10,Funimation,3900
+114,cancelada,2021-07-21,14,76,2021-09-27,Movistar+ Lite,7400
+206,activa,2020-06-13,4,22,,HBO+,3500
+118,cancelada,2020-07-08,15,76,2020-12-06,Discovery+,3700
+402,cancelada,2020-12-18,13,38,2021-09-11,Sony Liv,3100
+33,cancelada,2020-12-21,12,32,2021-10-01,Viu,5000
+327,cancelada,2021-07-09,12,63,2021-08-22,Viu,5000
+378,activa,2021-10-11,7,1,,Star+,7100
+310,cancelada,2020-10-03,7,11,2021-08-11,Star+,7100
+296,activa,2021-03-09,4,49,,HBO+,3500
+181,activa,2021-09-10,20,21,,DCCanal,4000
+16,cancelada,2021-08-30,9,82,2021-09-04,Showtime,3200
+322,activa,2020-05-13,5,63,,Funimation,3900
+279,cancelada,2021-04-17,7,46,2021-07-28,Star+,7100
+376,activa,2021-06-25,20,25,,DCCanal,4000
+130,activa,2021-04-01,12,68,,Viu,5000
+101,activa,2020-05-01,15,33,,Discovery+,3700
+253,activa,2021-06-29,1,16,,Netflix,4500
+309,activa,2021-08-27,20,11,,DCCanal,4000
+388,activa,2021-08-18,7,142,,Star+,7100
+337,activa,2021-03-21,2,8,,Amazon Prime Video,3700
+67,activa,2021-07-18,14,66,,Movistar+ Lite,7400
+164,activa,2021-11-19,8,14,,Hulu,7000
+72,activa,2021-12-04,10,44,,Stan,7900
+199,activa,2020-11-18,8,43,,Hulu,7000
+331,activa,2020-11-04,15,61,,Discovery+,3700
+372,activa,2020-10-21,5,25,,Funimation,3900
+103,activa,2021-10-17,9,33,,Showtime,3200
+25,activa,2020-12-28,8,146,,Hulu,7000
+288,cancelada,2020-12-24,16,26,2021-11-30,Rakuten TV,6500
+115,activa,2020-06-21,13,76,,Sony Liv,3100
+326,activa,2021-08-29,11,63,,Peackok,4000
+110,activa,2020-07-21,18,37,,ATRESplayer,2800
+85,activa,2020-08-13,7,133,,Star+,7100
+157,activa,2021-01-09,1,57,,Netflix,4500
+418,cancelada,2021-09-02,8,90,2021-10-06,Hulu,7000
+173,activa,2020-11-20,5,12,,Funimation,3900
+313,activa,2020-09-17,16,31,,Rakuten TV,6500
+332,activa,2020-07-23,19,61,,Mitele Plus,3700
+412,cancelada,2020-06-15,19,115,2020-09-28,Mitele Plus,3700
+221,cancelada,2020-06-09,7,19,2020-10-16,Star+,7100
+369,activa,2020-09-14,5,73,,Funimation,3900
+169,activa,2021-08-12,15,14,,Discovery+,3700
+248,cancelada,2020-06-29,15,16,2021-02-26,Discovery+,3700
+13,cancelada,2020-08-18,17,45,2021-07-14,Sky,6400
+384,activa,2020-09-09,14,142,,Movistar+ Lite,7400
+113,cancelada,2020-08-07,19,51,2021-05-03,Mitele Plus,3700
+419,activa,2020-10-12,18,90,,ATRESplayer,2800
+290,cancelada,2021-10-17,5,26,2021-11-13,Funimation,3900
+223,activa,2021-07-05,11,7,,Peackok,4000
+222,activa,2021-12-14,16,7,,Rakuten TV,6500
+362,activa,2021-04-11,13,64,,Sony Liv,3100
+361,activa,2021-04-08,20,102,,DCCanal,4000
+161,activa,2021-08-09,5,20,,Funimation,3900
+134,activa,2021-05-01,4,74,,HBO+,3500
+165,cancelada,2021-06-26,10,14,2021-09-16,Stan,7900
+162,cancelada,2020-05-05,20,20,2020-07-14,DCCanal,4000
+125,activa,2020-11-03,13,39,,Sony Liv,3100
+64,activa,2020-11-25,20,10,,DCCanal,4000
+133,activa,2021-03-05,15,74,,Discovery+,3700
+69,activa,2020-05-18,13,66,,Sony Liv,3100
+57,activa,2021-03-28,6,108,,Disney+,6500
+126,activa,2021-04-08,14,39,,Movistar+ Lite,7400
+151,cancelada,2021-01-29,7,71,2021-12-07,Star+,7100
+356,cancelada,2021-07-05,15,119,2021-07-19,Discovery+,3700
+37,cancelada,2020-11-09,3,62,2021-09-11,Crunchyroll,4400
+273,activa,2021-11-09,3,23,,Crunchyroll,4400
+390,activa,2021-12-03,8,106,,Hulu,7000
+36,activa,2020-09-11,17,62,,Sky,6400
+47,activa,2021-03-03,20,41,,DCCanal,4000
+394,cancelada,2020-10-21,16,106,2021-01-08,Rakuten TV,6500
+138,activa,2020-12-16,3,55,,Crunchyroll,4400
+321,activa,2020-10-13,7,63,,Star+,7100
+375,activa,2020-11-10,1,25,,Netflix,4500
+225,activa,2020-12-28,6,122,,Disney+,6500
+46,activa,2020-06-29,18,41,,ATRESplayer,2800
+95,activa,2021-05-30,14,92,,Movistar+ Lite,7400
+73,activa,2021-04-08,13,44,,Sony Liv,3100
+373,activa,2020-08-25,11,25,,Peackok,4000
+58,cancelada,2021-08-14,20,108,2021-10-04,DCCanal,4000
+385,activa,2021-12-13,16,142,,Rakuten TV,6500
+370,activa,2021-09-19,19,73,,Mitele Plus,3700
+4,activa,2021-04-19,9,48,,Showtime,3200
+298,activa,2021-04-29,6,49,,Disney+,6500
+308,cancelada,2021-09-07,1,11,2021-09-28,Netflix,4500
+87,cancelada,2021-10-14,18,70,2021-10-30,ATRESplayer,2800
+147,cancelada,2021-07-21,12,75,2021-10-27,Viu,5000
+265,cancelada,2021-01-24,8,95,2021-11-08,Hulu,7000
+229,activa,2020-07-29,20,97,,DCCanal,4000
+185,cancelada,2021-01-09,15,18,2021-11-14,Discovery+,3700
+112,cancelada,2020-11-07,10,51,2020-11-07,Stan,7900
+171,activa,2021-11-19,3,132,,Crunchyroll,4400
+353,activa,2021-03-31,5,119,,Funimation,3900
+207,activa,2021-11-27,9,22,,Showtime,3200
+397,cancelada,2021-06-26,9,4,2021-08-31,Showtime,3200
+191,activa,2021-05-30,17,13,,Sky,6400
+379,cancelada,2021-06-16,14,1,2021-11-19,Movistar+ Lite,7400
+177,cancelada,2021-07-09,5,34,2021-08-25,Funimation,3900
+137,activa,2021-08-20,1,55,,Netflix,4500
+122,activa,2021-04-16,17,2,,Sky,6400
+38,activa,2021-03-22,5,62,,Funimation,3900
+74,activa,2021-09-18,14,44,,Movistar+ Lite,7400
+91,cancelada,2021-04-06,4,92,2021-05-25,HBO+,3500
+179,cancelada,2020-12-04,2,34,2021-06-14,Amazon Prime Video,3700
+98,activa,2021-05-23,10,80,,Stan,7900
+256,cancelada,2021-03-24,10,56,2021-10-09,Stan,7900
+215,activa,2021-04-12,8,72,,Hulu,7000
+277,activa,2020-08-04,3,46,,Crunchyroll,4400
+208,activa,2020-09-21,18,22,,ATRESplayer,2800
+187,activa,2020-09-24,3,18,,Crunchyroll,4400
+325,activa,2020-11-18,13,63,,Sony Liv,3100
+306,activa,2021-08-19,18,11,,ATRESplayer,2800
+257,activa,2021-10-06,8,56,,Hulu,7000
+129,activa,2021-08-24,6,68,,Disney+,6500
+76,activa,2021-03-23,5,44,,Funimation,3900
+272,activa,2021-10-03,10,23,,Stan,7900
+289,cancelada,2021-01-24,8,26,2021-03-17,Hulu,7000
+234,activa,2021-02-13,19,28,,Mitele Plus,3700
+144,activa,2020-06-04,1,36,,Netflix,4500
+409,activa,2021-01-05,14,115,,Movistar+ Lite,7400
+334,cancelada,2021-11-03,3,8,2021-11-09,Crunchyroll,4400
+209,cancelada,2021-04-23,3,22,2021-11-13,Crunchyroll,4400
+330,activa,2020-11-27,16,61,,Rakuten TV,6500
+230,activa,2020-10-17,4,28,,HBO+,3500
+302,activa,2020-11-25,16,24,,Rakuten TV,6500
+92,cancelada,2021-12-08,7,92,2021-12-14,Star+,7100
+167,activa,2020-10-21,5,14,,Funimation,3900
+269,cancelada,2020-08-28,11,23,2021-05-15,Peackok,4000
+411,activa,2020-12-24,5,115,,Funimation,3900
+270,cancelada,2021-08-29,9,23,2021-09-23,Showtime,3200
+116,activa,2020-10-17,11,76,,Peackok,4000
+172,activa,2021-04-22,15,132,,Discovery+,3700
+347,activa,2021-07-11,5,52,,Funimation,3900
+299,activa,2021-07-14,10,65,,Stan,7900
+216,activa,2020-06-09,10,72,,Stan,7900
+250,activa,2020-11-05,16,16,,Rakuten TV,6500
+233,cancelada,2021-06-04,20,28,2021-07-20,DCCanal,4000
+417,activa,2020-08-13,3,90,,Crunchyroll,4400
+105,cancelada,2021-01-17,19,33,2021-11-02,Mitele Plus,3700
+119,activa,2021-08-06,15,2,,Discovery+,3700
+35,cancelada,2020-09-15,7,47,2021-06-07,Star+,7100
+41,activa,2020-11-13,15,105,,Discovery+,3700
+328,activa,2020-11-16,11,61,,Peackok,4000
+247,activa,2020-07-15,6,16,,Disney+,6500
+318,cancelada,2020-07-29,7,134,2020-10-17,Star+,7100
+212,activa,2021-11-14,1,22,,Netflix,4500
+416,activa,2020-06-04,9,6,,Showtime,3200
+267,activa,2021-01-09,19,23,,Mitele Plus,3700
+386,activa,2021-06-28,5,142,,Funimation,3900
+28,activa,2020-05-25,20,9,,DCCanal,4000
+39,cancelada,2021-01-05,4,62,2021-09-15,HBO+,3500
+15,cancelada,2020-05-05,19,45,2021-01-25,Mitele Plus,3700
+406,activa,2021-08-30,19,93,,Mitele Plus,3700
+70,activa,2021-09-26,17,44,,Sky,6400
+405,activa,2021-03-06,7,93,,Star+,7100
+21,activa,2021-05-25,7,40,,Star+,7100
+40,cancelada,2021-06-17,10,62,2021-11-21,Stan,7900
+175,activa,2021-08-04,3,12,,Crunchyroll,4400
+367,activa,2020-11-13,6,73,,Disney+,6500
+132,activa,2021-09-26,17,74,,Sky,6400
+197,activa,2021-09-27,3,43,,Crunchyroll,4400
+188,activa,2020-10-11,7,18,,Star+,7100
+49,activa,2021-08-11,1,41,,Netflix,4500
+276,activa,2021-04-29,6,23,,Disney+,6500
+210,activa,2021-11-10,6,22,,Disney+,6500
+311,cancelada,2020-10-25,17,31,2021-07-08,Sky,6400
+51,activa,2020-08-11,6,41,,Disney+,6500
+403,activa,2020-11-25,11,93,,Peackok,4000
+30,cancelada,2021-06-06,15,30,2021-06-26,Discovery+,3700
+190,activa,2021-03-10,15,13,,Discovery+,3700
+392,activa,2021-12-12,7,106,,Star+,7100
+182,activa,2021-01-25,11,21,,Peackok,4000
+226,activa,2021-02-15,11,122,,Peackok,4000
+268,activa,2020-07-31,20,23,,DCCanal,4000
+42,activa,2020-05-22,6,105,,Disney+,6500
+314,cancelada,2020-10-05,9,31,2020-12-07,Showtime,3200
+117,activa,2021-02-27,18,76,,ATRESplayer,2800
+294,activa,2021-09-07,19,49,,Mitele Plus,3700
+213,cancelada,2021-11-22,11,53,2021-11-26,Peackok,4000
+193,activa,2021-04-06,10,13,,Stan,7900
+84,activa,2021-07-30,11,133,,Peackok,4000
+93,cancelada,2020-06-25,5,92,2020-08-10,Funimation,3900
+400,cancelada,2020-08-22,1,4,2021-09-27,Netflix,4500
+395,cancelada,2021-06-08,9,106,2021-06-26,Showtime,3200
+343,activa,2020-05-13,6,17,,Disney+,6500
+211,activa,2021-09-29,13,22,,Sony Liv,3100
+241,cancelada,2021-05-30,14,54,2021-09-12,Movistar+ Lite,7400
+274,activa,2021-02-09,17,23,,Sky,6400
+31,activa,2021-09-30,16,32,,Rakuten TV,6500
+180,activa,2020-05-28,2,21,,Amazon Prime Video,3700
+71,activa,2021-05-22,8,44,,Hulu,7000
+345,activa,2021-08-29,14,130,,Movistar+ Lite,7400
+341,activa,2021-10-27,11,5,,Peackok,4000
+346,activa,2020-10-31,5,130,,Funimation,3900
+239,activa,2021-01-16,2,54,,Amazon Prime Video,3700
+111,cancelada,2021-03-13,6,51,2021-08-23,Disney+,6500
+359,activa,2021-12-03,4,119,,HBO+,3500
+168,activa,2021-02-12,7,14,,Star+,7100
+217,activa,2020-08-01,11,72,,Peackok,4000
+249,activa,2020-12-01,12,16,,Viu,5000
+243,activa,2021-04-17,7,50,,Star+,7100
+366,cancelada,2021-08-21,17,73,2021-10-26,Sky,6400
+219,activa,2020-05-27,16,19,,Rakuten TV,6500
+11,activa,2020-10-02,1,35,,Netflix,4500
+280,activa,2021-11-15,16,46,,Rakuten TV,6500
+358,cancelada,2021-07-30,6,119,2021-12-19,Disney+,6500
+374,activa,2021-09-13,6,25,,Disney+,6500
+43,activa,2021-02-14,5,105,,Funimation,3900
+26,activa,2020-05-22,16,146,,Rakuten TV,6500
+154,activa,2020-08-25,11,57,,Peackok,4000
+329,activa,2020-08-19,5,61,,Funimation,3900
+183,cancelada,2020-07-20,13,21,2021-01-20,Sony Liv,3100
+287,cancelada,2021-02-13,9,77,2021-12-12,Showtime,3200
+393,activa,2021-12-14,1,106,,Netflix,4500
+360,activa,2020-11-01,9,119,,Showtime,3200
+108,cancelada,2021-11-10,8,37,2021-11-27,Hulu,7000
+53,activa,2020-08-24,1,108,,Netflix,4500
+174,activa,2020-08-12,9,12,,Showtime,3200
+261,activa,2020-07-22,4,3,,HBO+,3500
+224,activa,2021-07-22,9,7,,Showtime,3200
+99,activa,2021-05-28,13,33,,Sony Liv,3100
+396,activa,2021-11-09,18,106,,ATRESplayer,2800
+349,activa,2020-09-30,6,52,,Disney+,6500
+246,activa,2020-11-03,1,50,,Netflix,4500
+305,activa,2020-08-26,20,24,,DCCanal,4000
+383,cancelada,2020-08-09,12,142,2020-08-29,Viu,5000
+252,activa,2021-09-25,3,16,,Crunchyroll,4400
+414,activa,2021-02-26,20,115,,DCCanal,4000
+140,activa,2021-08-18,12,36,,Viu,5000
+123,activa,2021-01-21,1,2,,Netflix,4500
+283,cancelada,2021-10-12,10,77,2021-11-14,Stan,7900
+79,activa,2020-11-21,2,67,,Amazon Prime Video,3700
+344,cancelada,2021-06-12,4,130,2021-09-23,HBO+,3500
+163,cancelada,2021-05-12,17,14,2021-10-04,Sky,6400
+363,activa,2021-03-01,3,64,,Crunchyroll,4400
+295,activa,2021-06-30,3,49,,Crunchyroll,4400
+260,activa,2021-03-08,1,3,,Netflix,4500
+22,activa,2021-06-07,13,40,,Sony Liv,3100
+186,activa,2020-11-07,17,18,,Sky,6400
+368,activa,2021-02-07,3,73,,Crunchyroll,4400
+348,cancelada,2021-10-01,13,52,2021-12-04,Sony Liv,3100
+238,activa,2021-03-01,11,54,,Peackok,4000
+236,activa,2021-11-14,13,54,,Sony Liv,3100
+27,cancelada,2021-10-30,13,9,2021-11-12,Sony Liv,3100
+355,activa,2021-02-15,14,119,,Movistar+ Lite,7400
+259,activa,2020-05-03,14,56,,Movistar+ Lite,7400
+255,activa,2020-07-23,10,16,,Stan,7900
+275,activa,2020-08-14,15,23,,Discovery+,3700
+136,activa,2021-02-10,11,55,,Peackok,4000
+263,activa,2020-08-24,8,87,,Hulu,7000
+160,activa,2020-05-05,2,58,,Amazon Prime Video,3700
+317,cancelada,2021-10-06,6,134,2021-10-21,Disney+,6500
+342,cancelada,2020-06-25,5,17,2021-11-14,Funimation,3900
+365,cancelada,2021-08-21,6,64,2021-10-13,Disney+,6500
+351,activa,2020-06-13,11,123,,Peackok,4000
+203,cancelada,2020-12-31,15,15,2021-11-29,Discovery+,3700
+29,activa,2021-04-17,6,30,,Disney+,6500
+75,cancelada,2021-07-16,1,44,2021-12-14,Netflix,4500
+200,activa,2020-08-01,18,15,,ATRESplayer,2800
+106,activa,2020-08-08,17,37,,Sky,6400
+148,cancelada,2020-07-20,9,75,2020-12-29,Showtime,3200
+333,activa,2021-11-20,7,8,,Star+,7100
+315,cancelada,2021-03-09,13,31,2021-10-18,Sony Liv,3100
+59,cancelada,2020-07-22,10,60,2021-01-16,Stan,7900
+335,cancelada,2021-07-15,12,8,2021-10-28,Viu,5000
+218,activa,2021-12-07,10,19,,Stan,7900
+282,cancelada,2020-05-27,15,46,2021-01-01,Discovery+,3700
+195,cancelada,2020-05-20,11,43,2021-06-08,Peackok,4000
+271,activa,2021-03-29,16,23,,Rakuten TV,6500
+339,cancelada,2021-11-09,7,5,2021-12-03,Star+,7100
+214,activa,2020-07-07,9,72,,Showtime,3200
