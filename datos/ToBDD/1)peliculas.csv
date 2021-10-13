@@ -1,102 +1,102 @@
 pid,titulo,puntuacion,clasificacion,duracion,año
-1.0,Return to Babylon,7.1,G,75,2013
-2.0,Life's a Beach,9.0,PG-13,100,2012
-3.0,'77,2.1,G,113,2017
-4.0,In My Sleep,1.6,PG,104,2010
-5.0,The Evil Within,4.6,PG-13,98,2017
-6.0,Fahrenheit 451,3.0,G,100,2018
-7.0,A Walk Among the Tombstones,2.7,G,114,2014
-8.0,Jurassic World,7.8,G,124,2015
-9.0,The Three Stooges,2.1,PG-13,92,2012
-10.0,Motherless Brooklyn,9.7,PG-13,144,2019
-11.0,Anderson's Cross,4.2,PG,98,2010
-12.0,Tangled,7.9,PG,100,2010
-13.0,John Carter,5.4,NC-17,132,2012
-14.0,Disconnect,2.1,PG-13,112,2010
-15.0,The Stanford Prison Experiment,1.2,PG-13,122,2015
-16.0,Venus & Vegas,7.8,PG-13,95,2010
-17.0,Dinner for Schmucks,5.1,G,114,2010
-18.0,A Million Little Pieces,4.3,PG-13,113,2018
-19.0,Satin,5.8,PG-13,84,2011
-20.0,Toy Story 3,1.1,G,103,2010
-21.0,Before We Go,9.1,PG-13,95,2014
-22.0,A Bird of the Air,5.1,PG-13,108,2011
-23.0,Puss in Boots,4.0,PG-13,90,2011
-24.0,Mad World,7.0,PG,98,2010
-25.0,The Passing,2.2,PG-13,92,2011
-26.0,Sludge,1.7,G,95,2017
-27.0,42,6.7,G,128,2013
-28.0,Being Flynn,9.9,PG,102,2012
-29.0,The Equalizer,3.9,PG,132,2014
-30.0,Captain America: The First Avenger,4.1,PG,124,2011
-31.0,Sin City: A Dame to Kill For,9.1,PG,102,2014
-32.0,Drunkboat,8.6,PG,98,2010
-33.0,The Only Living Boy in New York,7.0,PG,89,2017
-34.0,Satan Hates You,8.2,NC-17,94,2010
-35.0,The Devil You Know,2.0,G,76,2013
-36.0,House at the End of the Drive,1.1,G,91,2014
-37.0,Margaret,1.7,PG-13,150,2011
-38.0,Harlem Hostel,3.7,PG-13,81,2010
-39.0,Smoking Nonsmoking,3.2,PG,84,2011
-40.0,Tower Heist,5.9,PG-13,104,2011
-41.0,The Mechanic,8.7,G,93,2011
-42.0,Prince of Persia: The Sands of Time,2.4,PG,116,2010
-43.0,Unstoppable,3.3,G,98,2010
-44.0,Extremely Loud & Incredibly Close,4.1,G,129,2011
-45.0,The Tree of Life,7.4,PG-13,139,2011
-46.0,Ant-Man,7.4,PG-13,117,2015
-47.0,Season of the Witch,2.6,PG,95,2011
-48.0,Atlas Shrugged: Part I,3.3,G,97,2011
-49.0,Hall Pass,3.7,PG-13,105,2011
-50.0,The Croods,5.3,G,98,2013
-51.0,Barry Munday,5.0,PG,95,2010
-52.0,Chasing 3000,9.8,G,115,2010
-53.0,Red Tails,5.2,G,125,2012
-54.0,Aftermath,3.6,PG-13,84,2013
-55.0,The Invited,5.3,G,95,2010
-56.0,Something Borrowed,3.2,PG-13,112,2011
-57.0,CHIPS,3.6,PG,100,2017
-58.0,Ramona and Beezus,5.4,G,104,2010
-59.0,Rings,7.3,G,102,2017
-60.0,Love & Other Drugs,6.8,PG-13,112,2010
-61.0,Syrup,2.6,PG-13,90,2013
-62.0,A Thousand Words,5.2,PG-13,91,2012
-63.0,The Legend of Secret Pass,8.9,G,92,2010
-64.0,Night of the Templar,9.0,PG,101,2013
-65.0,What's Your Number?,1.4,G,106,2011
-66.0,Jersey Justice,6.3,PG-13,100,2014
-67.0,Cell,8.8,PG,98,2016
-68.0,Night Catches Us,7.4,PG,90,2010
-69.0,Drive,1.1,G,100,2011
-70.0,Kid Cannabis,8.9,PG,110,2014
-71.0,Santorini Blue,6.7,PG,90,2013
-72.0,The Wolfman,4.5,G,103,2010
-73.0,The Last Full Measure,9.7,G,116,2019
-74.0,The Boxtrolls,1.0,NC-17,96,2014
-75.0,The Incredible Burt Wonderstone,4.6,PG,100,2013
-76.0,Dallas Buyers Club,4.9,PG,117,2013
-77.0,Elliot Loves,1.9,G,92,2012
-78.0,Jack Reacher,9.8,G,130,2012
-79.0,R.I.P.D.,5.1,PG-13,96,2013
-80.0,Miles Ahead,5.6,G,100,2015
-81.0,The Yellow Wallpaper,5.3,PG,115,2012
-82.0,Scary Movie 5,7.2,PG,88,2013
-83.0,13,2.6,PG-13,91,2010
-84.0,The Dirt,1.3,PG-13,107,2019
-85.0,Thor,10.0,PG,115,2011
-86.0,Devil's Knot,8.3,R,114,2013
-87.0,It's Kind of a Funny Story,8.1,PG,101,2010
-88.0,Jack and Jill,3.0,G,91,2011
-89.0,The Do-Deca-Pentathlon,9.4,PG,76,2012
-90.0,She's Out of My League,9.6,G,104,2010
-91.0,Flipped,6.9,PG-13,90,2010
-92.0,Valentine's Day,5.3,PG,125,2010
-93.0,The Power of Few,4.5,G,96,2013
-94.0,Dreamkiller,8.5,PG-13,110,2010
-95.0,Priest,3.8,PG,87,2011
-96.0,Maximum Ride,3.9,PG-13,88,2016
-97.0,Waking Madison,5.2,G,89,2010
-98.0,The Babymakers,6.6,NC-17,95,2012
-99.0,Electric Slide,6.7,PG,95,2014
-100.0,Krystal,2.0,PG-13,90,2017
-101.0,Scream,7.0,NC-17,111,1996
+1,Return to Babylon,7.1,G,75,2013
+2,Life's a Beach,9.0,PG-13,100,2012
+3,'77,2.1,G,113,2017
+4,In My Sleep,1.6,PG,104,2010
+5,The Evil Within,4.6,PG-13,98,2017
+6,Fahrenheit 451,3.0,G,100,2018
+7,A Walk Among the Tombstones,2.7,G,114,2014
+8,Jurassic World,7.8,G,124,2015
+9,The Three Stooges,2.1,PG-13,92,2012
+10,Motherless Brooklyn,9.7,PG-13,144,2019
+11,Anderson's Cross,4.2,PG,98,2010
+12,Tangled,7.9,PG,100,2010
+13,John Carter,5.4,NC-17,132,2012
+14,Disconnect,2.1,PG-13,112,2010
+15,The Stanford Prison Experiment,1.2,PG-13,122,2015
+16,Venus & Vegas,7.8,PG-13,95,2010
+17,Dinner for Schmucks,5.1,G,114,2010
+18,A Million Little Pieces,4.3,PG-13,113,2018
+19,Satin,5.8,PG-13,84,2011
+20,Toy Story 3,1.1,G,103,2010
+21,Before We Go,9.1,PG-13,95,2014
+22,A Bird of the Air,5.1,PG-13,108,2011
+23,Puss in Boots,4.0,PG-13,90,2011
+24,Mad World,7.0,PG,98,2010
+25,The Passing,2.2,PG-13,92,2011
+26,Sludge,1.7,G,95,2017
+27,42,6.7,G,128,2013
+28,Being Flynn,9.9,PG,102,2012
+29,The Equalizer,3.9,PG,132,2014
+30,Captain America: The First Avenger,4.1,PG,124,2011
+31,Sin City: A Dame to Kill For,9.1,PG,102,2014
+32,Drunkboat,8.6,PG,98,2010
+33,The Only Living Boy in New York,7.0,PG,89,2017
+34,Satan Hates You,8.2,NC-17,94,2010
+35,The Devil You Know,2.0,G,76,2013
+36,House at the End of the Drive,1.1,G,91,2014
+37,Margaret,1.7,PG-13,150,2011
+38,Harlem Hostel,3.7,PG-13,81,2010
+39,Smoking Nonsmoking,3.2,PG,84,2011
+40,Tower Heist,5.9,PG-13,104,2011
+41,The Mechanic,8.7,G,93,2011
+42,Prince of Persia: The Sands of Time,2.4,PG,116,2010
+43,Unstoppable,3.3,G,98,2010
+44,Extremely Loud & Incredibly Close,4.1,G,129,2011
+45,The Tree of Life,7.4,PG-13,139,2011
+46,Ant-Man,7.4,PG-13,117,2015
+47,Season of the Witch,2.6,PG,95,2011
+48,Atlas Shrugged: Part I,3.3,G,97,2011
+49,Hall Pass,3.7,PG-13,105,2011
+50,The Croods,5.3,G,98,2013
+51,Barry Munday,5.0,PG,95,2010
+52,Chasing 3000,9.8,G,115,2010
+53,Red Tails,5.2,G,125,2012
+54,Aftermath,3.6,PG-13,84,2013
+55,The Invited,5.3,G,95,2010
+56,Something Borrowed,3.2,PG-13,112,2011
+57,CHIPS,3.6,PG,100,2017
+58,Ramona and Beezus,5.4,G,104,2010
+59,Rings,7.3,G,102,2017
+60,Love & Other Drugs,6.8,PG-13,112,2010
+61,Syrup,2.6,PG-13,90,2013
+62,A Thousand Words,5.2,PG-13,91,2012
+63,The Legend of Secret Pass,8.9,G,92,2010
+64,Night of the Templar,9.0,PG,101,2013
+65,What's Your Number?,1.4,G,106,2011
+66,Jersey Justice,6.3,PG-13,100,2014
+67,Cell,8.8,PG,98,2016
+68,Night Catches Us,7.4,PG,90,2010
+69,Drive,1.1,G,100,2011
+70,Kid Cannabis,8.9,PG,110,2014
+71,Santorini Blue,6.7,PG,90,2013
+72,The Wolfman,4.5,G,103,2010
+73,The Last Full Measure,9.7,G,116,2019
+74,The Boxtrolls,1.0,NC-17,96,2014
+75,The Incredible Burt Wonderstone,4.6,PG,100,2013
+76,Dallas Buyers Club,4.9,PG,117,2013
+77,Elliot Loves,1.9,G,92,2012
+78,Jack Reacher,9.8,G,130,2012
+79,R.I.P.D.,5.1,PG-13,96,2013
+80,Miles Ahead,5.6,G,100,2015
+81,The Yellow Wallpaper,5.3,PG,115,2012
+82,Scary Movie 5,7.2,PG,88,2013
+83,13,2.6,PG-13,91,2010
+84,The Dirt,1.3,PG-13,107,2019
+85,Thor,10.0,PG,115,2011
+86,Devil's Knot,8.3,R,114,2013
+87,It's Kind of a Funny Story,8.1,PG,101,2010
+88,Jack and Jill,3.0,G,91,2011
+89,The Do-Deca-Pentathlon,9.4,PG,76,2012
+90,She's Out of My League,9.6,G,104,2010
+91,Flipped,6.9,PG-13,90,2010
+92,Valentine's Day,5.3,PG,125,2010
+93,The Power of Few,4.5,G,96,2013
+94,Dreamkiller,8.5,PG-13,110,2010
+95,Priest,3.8,PG,87,2011
+96,Maximum Ride,3.9,PG-13,88,2016
+97,Waking Madison,5.2,G,89,2010
+98,The Babymakers,6.6,NC-17,95,2012
+99,Electric Slide,6.7,PG,95,2014
+100,Krystal,2.0,PG-13,90,2017
+101,Scream,7.0,NC-17,111,1996
