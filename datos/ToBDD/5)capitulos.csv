@@ -5,30 +5,10 @@ sid,cid,titulocap,temporada,duracion
 1,69,Episode 5,2,64
 1,1,Episode 1,1,62
 1,65,Episode 1,2,62
-1,2,Episode 2,1,66
-1,2,Episode 2,1,66
-1,65,Episode 1,2,62
-1,68,Episode 4,2,65
-1,67,Episode 3,2,59
 1,3,Episode 3,1,59
 1,5,Episode 5,1,64
-1,65,Episode 1,2,62
 1,66,Episode 2,2,66
-1,5,Episode 5,1,64
 1,4,Episode 4,1,65
-1,5,Episode 5,1,64
-1,66,Episode 2,2,66
-1,3,Episode 3,1,59
-1,1,Episode 1,1,62
-1,69,Episode 5,2,64
-1,68,Episode 4,2,65
-1,4,Episode 4,1,65
-1,1,Episode 1,1,62
-1,3,Episode 3,1,59
-1,66,Episode 2,2,66
-1,69,Episode 5,2,64
-1,4,Episode 4,1,65
-1,67,Episode 3,2,59
 2,23,El de las esposas,4,24
 2,25,El de la nueva novia de Joey,4,26
 2,19,El del túnel metafórico,3,22
@@ -40,45 +20,20 @@ sid,cid,titulocap,temporada,duracion
 2,9,El de George Stephanopoulos,1,23
 2,7,El de la ecografía final,1,20
 2,15,El de la carne para cinco y una berenjena,2,26
-2,7,El de la ecografía final,1,20
 2,22,El de la gata,4,26
 2,21,El de la medusa,4,22
 2,18,El de la mermelada,3,24
 2,17,El de cuando nadie está listo,3,22
 2,6,En el que todo empieza,1,22
-2,28,El de los trillizos,5,24
 2,24,El de los bailes de salón,4,24
-2,16,El de la fantasía de la Princesa Leia,3,25
-2,6,En el que todo empieza,1,22
-2,14,El esposo de Phoebe,2,24
 2,11,El de la nueva novia de Ross,2,25
 2,10,El del detergente de lavandería germano-oriental,1,22
 2,29,El que Phoebe odia la PBS,5,26
-2,25,El de la nueva novia de Joey,4,26
 2,8,El del pulgar,1,21
 2,30,El de los Kips,5,22
-2,22,El de la gata,4,26
-2,13,El de cuando muere Heckles,2,23
-2,24,El de los bailes de salón,4,24
-2,27,El de los besos,5,24
-2,11,El de la nueva novia de Ross,2,25
-2,15,El de la carne para cinco y una berenjena,2,26
-2,20,El de Frank Jr.,3,26
-2,19,El del túnel metafórico,3,22
-2,29,El que Phoebe odia la PBS,5,26
-2,18,El de la mermelada,3,24
-2,17,El de cuando nadie está listo,3,22
 2,13,El de cuando muere Heckles,2,23
 2,27,El de los besos,5,24
-2,26,El de después de que Ross dijera el nombre de Rachel,5,22
-2,10,El del detergente de lavandería germano-oriental,1,22
-2,9,El de George Stephanopoulos,1,23
 2,12,El de la leche materna,2,22
-2,30,El de los Kips,5,22
-2,12,El de la leche materna,2,22
-2,21,El de la medusa,4,22
-2,8,El del pulgar,1,21
-2,23,El de las esposas,4,24
 3,50,Los Hermanos Nijimura (Parte 3),4,23
 3,46,¡Jotaro Kujo! Conoce a Josuke Higashikata,4,23
 3,33,Juventud con dio,1,23
@@ -86,133 +41,39 @@ sid,cid,titulocap,temporada,duracion
 3,48,Los Hermanos Nijimura (Parte 1),4,23
 3,47,¡Josuke Higashikata! Conoce a Angelo,4,23
 3,36,El jojo de nueva york,2,23
-3,33,Juventud con dio,1,23
 3,32,Una carta del pasado,1,23
 3,37,El maestro del juego,2,23
-3,36,El jojo de nueva york,2,23
-3,32,Una carta del pasado,1,23
 3,34,Overdrive,1,23
-3,36,El jojo de nueva york,2,23
 3,44,Tower of gray,3,23
 3,31,Dio: el invasor,1,23
 3,40,Los guerreros definitivos de tiempos antiguos,2,23
 3,35,Los caballeros oscuros,1,23
-3,45,Silver Chariot,3,23
-3,41,un hombre poseído por un espíritu maligno,3,23
-3,44,Tower of gray,3,23
 3,41,un hombre poseído por un espíritu maligno,3,23
 3,49,Los Hermanos Nijimura (Parte 2),4,23
-3,46,¡Jotaro Kujo! Conoce a Josuke Higashikata,4,23
-3,34,Overdrive,1,23
-3,49,Los Hermanos Nijimura (Parte 2),4,23
 3,42,¡¿quién será el juez?!,3,23
-3,41,un hombre poseído por un espíritu maligno,3,23
-3,34,Overdrive,1,23
-3,46,¡Jotaro Kujo! Conoce a Josuke Higashikata,4,23
-3,37,El maestro del juego,2,23
-3,47,¡Josuke Higashikata! Conoce a Angelo,4,23
-3,48,Los Hermanos Nijimura (Parte 1),4,23
-3,44,Tower of gray,3,23
-3,35,Los caballeros oscuros,1,23
-3,47,¡Josuke Higashikata! Conoce a Angelo,4,23
-3,33,Juventud con dio,1,23
-3,42,¡¿quién será el juez?!,3,23
-3,35,Los caballeros oscuros,1,23
-3,50,Los Hermanos Nijimura (Parte 3),4,23
-3,39,Jojo vs. la forma de vida definitiva,2,23
-3,40,Los guerreros definitivos de tiempos antiguos,2,23
-3,50,Los Hermanos Nijimura (Parte 3),4,23
-3,39,Jojo vs. la forma de vida definitiva,2,23
-3,37,El maestro del juego,2,23
-3,40,Los guerreros definitivos de tiempos antiguos,2,23
-3,31,Dio: el invasor,1,23
-3,38,El hombre del pilar,2,23
 3,39,Jojo vs. la forma de vida definitiva,2,23
 3,38,El hombre del pilar,2,23
-3,38,El hombre del pilar,2,23
 3,43,La maldición de dio,3,23
-3,43,La maldición de dio,3,23
-3,31,Dio: el invasor,1,23
-3,48,Los Hermanos Nijimura (Parte 1),4,23
-3,43,La maldición de dio,3,23
-3,49,Los Hermanos Nijimura (Parte 2),4,23
-3,32,Una carta del pasado,1,23
-3,42,¡¿quién será el juez?!,3,23
-3,45,Silver Chariot,3,23
 4,57,La amenaza que se acerca en silencio,4,20
 4,55,Pesadilla,3,21
-4,52,El Akatsuki comienza a moverse,1,20
 4,52,El Akatsuki comienza a moverse,1,20
 4,63,El viajero,7,20
 4,56,Viento,3,20
 4,54,¡Formación: el nuevo equipo Kakashi!,2,20
-4,52,El Akatsuki comienza a moverse,1,20
 4,59,El precio del poder,5,20
 4,62,Ojo de halcón,6,20
-4,54,¡Formación: el nuevo equipo Kakashi!,2,20
-4,60,Un asunto shinobi,5,21
-4,64,El sucesor de la técnica prohibida,7,22
-4,59,El precio del poder,5,20
-4,54,¡Formación: el nuevo equipo Kakashi!,2,20
-4,62,Ojo de halcón,6,20
-4,53,El nuevo objetivo,2,22
-4,59,El precio del poder,5,20
-4,63,El viajero,7,20
-4,63,El viajero,7,20
-4,51,El regreso a casa,1,22
-4,55,Pesadilla,3,21
-4,53,El nuevo objetivo,2,22
-4,55,Pesadilla,3,21
-4,61,La pupila de la serpiente,6,20
-4,51,El regreso a casa,1,22
-4,61,La pupila de la serpiente,6,20
-4,51,El regreso a casa,1,22
-4,54,¡Formación: el nuevo equipo Kakashi!,2,20
-4,63,El viajero,7,20
-4,56,Viento,3,20
-4,61,La pupila de la serpiente,6,20
-4,62,Ojo de halcón,6,20
-4,51,El regreso a casa,1,22
-4,62,Ojo de halcón,6,20
-4,59,El precio del poder,5,20
-4,58,La invasión de Akatsuki,4,21
-4,58,La invasión de Akatsuki,4,21
-4,64,El sucesor de la técnica prohibida,7,22
-4,64,El sucesor de la técnica prohibida,7,22
-4,61,La pupila de la serpiente,6,20
 4,60,Un asunto shinobi,5,21
 4,64,El sucesor de la técnica prohibida,7,22
 4,53,El nuevo objetivo,2,22
-4,53,El nuevo objetivo,2,22
-4,57,La amenaza que se acerca en silencio,4,20
+4,51,El regreso a casa,1,22
+4,61,La pupila de la serpiente,6,20
 4,58,La invasión de Akatsuki,4,21
-4,60,Un asunto shinobi,5,21
-4,57,La amenaza que se acerca en silencio,4,20
-4,52,El Akatsuki comienza a moverse,1,20
-4,56,Viento,3,20
-4,57,La amenaza que se acerca en silencio,4,20
-4,56,Viento,3,20
-4,60,Un asunto shinobi,5,21
-4,58,La invasión de Akatsuki,4,21
-4,55,Pesadilla,3,21
-5,74,Deja vu,3,60
 5,74,Deja vu,3,60
 5,72,Principios y finales,2,53
-5,72,Principios y finales,2,53
-5,74,Deja vu,3,60
-5,75,Los sobrevivientes,3,59
-5,72,Principios y finales,2,53
-5,70,Secretos,1,51
-5,73,Materia oscura,2,54
-5,70,Secretos,1,51
-5,73,Materia oscura,2,54
 5,75,Los sobrevivientes,3,59
 5,70,Secretos,1,51
-5,71,Mentiras,1,44
-5,71,Mentiras,1,44
 5,73,Materia oscura,2,54
 5,71,Mentiras,1,44
-5,75,Los sobrevivientes,3,59
 6,83,Cirugía,4,32
 6,79,Relox,2,32
 6,76,El comienzo,1,29
@@ -220,235 +81,78 @@ sid,cid,titulocap,temporada,duracion
 6,80,Por el sr. manguera,3,28
 6,78,Vacaciones,2,34
 6,81,La maquina del tiempo,3,31
-6,79,Relox,2,32
 6,77,El arbol furioso,1,31
-6,81,La maquina del tiempo,3,31
-6,76,El comienzo,1,29
-6,83,Cirugía,4,32
-6,78,Vacaciones,2,34
-6,82,La mona lisa,4,32
-6,77,El arbol furioso,1,31
-6,80,Por el sr. manguera,3,28
 7,85,Se acabaron las máscaras,2,50
 7,86,Hemos vuelto,3,50
 7,84,Efectuar lo acordado,1,50
-7,85,Se acabaron las máscaras,2,50
-7,84,Efectuar lo acordado,1,50
-7,85,Se acabaron las máscaras,2,50
-7,86,Hemos vuelto,3,50
-7,84,Efectuar lo acordado,1,50
-7,86,Hemos vuelto,3,50
 8,89,Carla,3,58
 8,88,20 horas desaparecido,2,55
-8,88,20 horas desaparecido,2,55
 8,87,Bienvenidos,1,60
-8,87,Bienvenidos,1,60
-8,87,Bienvenidos,1,60
-8,89,Carla,3,58
-8,88,20 horas desaparecido,2,55
-8,89,Carla,3,58
 9,92,Olding,3,58
 9,91,Misadventure,2,60
 9,90,Wolferton Splash,1,62
-9,92,Olding,3,58
-9,90,Wolferton Splash,1,62
-9,91,Misadventure,2,60
 10,93,Midoriya Izuku: Origen,1,24
 10,95,Empieza el juego,3,24
-10,95,Empieza el juego,3,24
 10,94,Libreta de héroes,2,24
-10,95,Empieza el juego,3,24
-10,94,Libreta de héroes,2,24
-10,94,Libreta de héroes,2,24
-10,93,Midoriya Izuku: Origen,1,24
-10,93,Midoriya Izuku: Origen,1,24
 11,96,Casete 1: lado A,1,60
 11,97,La primera polaroid,2,62
-11,96,Casete 1: lado A,1,60
 11,98,Si: soy la chica nueva,3,56
-11,96,Casete 1: lado A,1,60
-11,98,Si: soy la chica nueva,3,56
-11,98,Si: soy la chica nueva,3,56
-11,97,La primera polaroid,2,62
-11,97,La primera polaroid,2,62
-11,98,Si: soy la chica nueva,3,56
-11,96,Casete 1: lado A,1,60
-11,97,La primera polaroid,2,62
-12,99,El fin y el comienzo,1,20
 12,99,El fin y el comienzo,1,20
 12,100,¡Vamos a Tokyo!,2,22
-12,100,¡Vamos a Tokyo!,2,22
-12,101,Saludos,3,21
 12,101,Saludos,3,21
 13,102,Capítulo 1: Corrientes traicioneras,1,55
 13,104,Capítulo 36: Día del Trabajo,3,62
 13,103,Capítulo 14: Un beso antes de morir,2,60
-13,104,Capítulo 36: Día del Trabajo,3,62
-13,102,Capítulo 1: Corrientes traicioneras,1,55
-13,104,Capítulo 36: Día del Trabajo,3,62
-13,102,Capítulo 1: Corrientes traicioneras,1,55
-13,103,Capítulo 14: Un beso antes de morir,2,60
-13,103,Capítulo 14: Un beso antes de morir,2,60
 14,107,Respuesta de papa,3,24
 14,106,Un x Guardián x Peligroso,2,24
-14,107,Respuesta de papa,3,24
 14,105,Partida x Y x Compañeros,1,24
-14,107,Respuesta de papa,3,24
-14,106,Un x Guardián x Peligroso,2,24
-14,106,Un x Guardián x Peligroso,2,24
-14,105,Partida x Y x Compañeros,1,24
-14,105,Partida x Y x Compañeros,1,24
-15,108,Antártida,1,60
 15,108,Antártida,1,60
 15,109,Empapada,2,62
 15,110,Los mejores planes,3,59
-15,110,Los mejores planes,3,59
-15,109,Empapada,2,62
 16,112,Aceptación,2,42
 16,113,Sentido,3,44
 16,111,Piloto,1,43
-16,112,Aceptación,2,42
-16,111,Piloto,1,43
-16,113,Sentido,3,44
 17,115,Gotas de lluvia sobre mi cabeza,2,42
 17,116,Llegó el momento,3,45
 17,114,La noche de un día difícil,1,40
-17,114,La noche de un día difícil,1,40
-17,116,Llegó el momento,3,45
-17,115,Gotas de lluvia sobre mi cabeza,2,42
-18,119,El recuerdo de un recuerdo,3,21
-18,117,Panico en la fiesta del palacio,1,21
-18,119,El recuerdo de un recuerdo,3,21
 18,119,El recuerdo de un recuerdo,3,21
 18,117,Panico en la fiesta del palacio,1,21
 18,118,Llegó de la Nocheósfera,2,21
-18,118,Llegó de la Nocheósfera,2,21
-18,117,Panico en la fiesta del palacio,1,21
-18,118,Llegó de la Nocheósfera,2,21
 19,120,Wendigo,1,55
 19,121,En mi tiempo de morir,2,50
-19,120,Wendigo,1,55
-19,121,En mi tiempo de morir,2,50
-19,121,En mi tiempo de morir,2,50
-19,120,Wendigo,1,55
-19,120,Wendigo,1,55
-19,122,Los siete magníficos,3,58
-19,122,Los siete magníficos,3,58
-19,121,En mi tiempo de morir,2,50
-19,121,En mi tiempo de morir,2,50
-19,122,Los siete magníficos,3,58
-19,122,Los siete magníficos,3,58
-19,120,Wendigo,1,55
-19,122,Los siete magníficos,3,58
-19,121,En mi tiempo de morir,2,50
-19,120,Wendigo,1,55
 19,122,Los siete magníficos,3,58
 20,125,La mujer de acero,3,42
 20,123,Más fuertes juntos,1,35
 20,124,Las aventuras de Supergirl,2,40
-20,123,Más fuertes juntos,1,35
-20,125,La mujer de acero,3,42
-20,123,Más fuertes juntos,1,35
-20,124,Las aventuras de Supergirl,2,40
-20,123,Más fuertes juntos,1,35
-20,125,La mujer de acero,3,42
-20,124,Las aventuras de Supergirl,2,40
-20,123,Más fuertes juntos,1,35
-20,124,Las aventuras de Supergirl,2,40
-20,124,Las aventuras de Supergirl,2,40
-20,125,La mujer de acero,3,42
-20,125,La mujer de acero,3,42
 21,128,Stark Raving Dad,3,20
 21,127,"Bart Gets an ""F""",2,20
 21,126,Simpsons Roasting on an Open Fire,1,20
 22,130,Episode 1,2,42
 22,129,Episode 1,1,40
 22,131,Episode 1,3,41
-22,129,Episode 1,1,40
-22,130,Episode 1,2,42
-22,131,Episode 1,3,41
-22,130,Episode 1,2,42
-22,129,Episode 1,1,40
-22,131,Episode 1,3,41
-22,131,Episode 1,3,41
-22,129,Episode 1,1,40
-22,130,Episode 1,2,42
 23,132,Pilot,1,22
 23,133,A Rickle in Time,2,22
 23,134,The Rickshank Rickdemption,3,22
 24,137,Señal de humo,3,23
 24,136,El titán bestia,2,23
 24,135,A ti: 2.000 años en el futuro,1,23
-24,137,Señal de humo,3,23
-24,135,A ti: 2.000 años en el futuro,1,23
-24,135,A ti: 2.000 años en el futuro,1,23
-24,135,A ti: 2.000 años en el futuro,1,23
-24,136,El titán bestia,2,23
-24,136,El titán bestia,2,23
-24,136,El titán bestia,2,23
-24,135,A ti: 2.000 años en el futuro,1,23
-24,135,A ti: 2.000 años en el futuro,1,23
-24,136,El titán bestia,2,23
-24,137,Señal de humo,3,23
-24,137,Señal de humo,3,23
-24,137,Señal de humo,3,23
-24,137,Señal de humo,3,23
-24,136,El titán bestia,2,23
 25,138,El alquimista de acero,1,23
-25,138,El alquimista de acero,1,23
-25,140,Interludio,3,23
-25,140,Interludio,3,23
-25,138,El alquimista de acero,1,23
-25,139,Los que acechan bajo tierra,2,23
-25,139,Los que acechan bajo tierra,2,23
 25,140,Interludio,3,23
 25,139,Los que acechan bajo tierra,2,23
 26,143,El despertar,3,24
 26,141,El niño en el iceberg,1,24
-26,143,El despertar,3,24
 26,142,El estado avatar,2,24
-26,141,El niño en el iceberg,1,24
-26,142,El estado avatar,2,24
-26,143,El despertar,3,24
-26,142,El estado avatar,2,24
-26,141,El niño en el iceberg,1,24
 27,145,The Return,2,49
 27,144,Pilot,1,49
 27,146,The Birthday,3,49
-27,144,Pilot,1,49
-27,144,Pilot,1,49
-27,146,The Birthday,3,49
-27,145,The Return,2,49
-27,144,Pilot,1,49
-27,146,The Birthday,3,49
-27,145,The Return,2,49
-27,146,The Birthday,3,49
-27,145,The Return,2,49
 28,147,Pilot,1,40
-28,149,Los contratiempos de la Fortuna,3,45
-28,147,Pilot,1,40
-28,148,Verano: una especie de maravilla,2,42
 28,149,Los contratiempos de la Fortuna,3,45
 28,148,Verano: una especie de maravilla,2,42
 29,152,Many Happy Returns,3,60
 29,151,Escándalo en Belgravia,2,60
-29,151,Escándalo en Belgravia,2,60
 29,150,Estudio en rosa,1,60
-29,152,Many Happy Returns,3,60
-29,152,Many Happy Returns,3,60
-29,150,Estudio en rosa,1,60
-29,150,Estudio en rosa,1,60
-29,151,Escándalo en Belgravia,2,60
 30,155,Smith y Jones,2,45
 30,153,Rose,1,45
-30,153,Rose,1,45
 30,154,Nueva tierra,2,46
-30,153,Rose,1,45
-30,154,Nueva tierra,2,46
-30,155,Smith y Jones,2,45
-30,155,Smith y Jones,2,45
-30,154,Nueva tierra,2,46
-31,156,Exposed,1,44
-31,157,Psycho,2,45
 31,156,Exposed,1,44
 31,157,Psycho,2,45
