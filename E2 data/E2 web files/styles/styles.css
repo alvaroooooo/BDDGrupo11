@@ -1,0 +1,28 @@
+.special {
+  color: #6f42c1;
+  font-weight: 600;
+}
+
+.butstyle {
+  width: 80% !important;
+}
+
+label {
+  padding: 10px 5px 10px 5px;
+}
+
+.general {
+  width: 80%;
+  margin: auto; 
+  margin-top: 40px;
+}
+
+.my-dropdown {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+  padding-top: 0.375rem;
+  padding-right: 0.75rem;
+  padding-bottom: 0.375rem;
+  padding-left: 0.75rem;
+}
