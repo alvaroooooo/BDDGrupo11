@@ -1,0 +1,35 @@
+table { 
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr.head {
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+  background-color: gray;
+  color: white;
+}
+
+tr {
+  border-bottom: 1px solid #dddddd;
+  border-top: 1px solid #dddddd;
+}
+
+td, th{
+  padding: 6px;
+  text-align: center;
+}
+
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+tr:hover {
+  background-color: #3b76b9;
+  color: white;
+}
+
+.for-table {
+  margin: auto;
+}

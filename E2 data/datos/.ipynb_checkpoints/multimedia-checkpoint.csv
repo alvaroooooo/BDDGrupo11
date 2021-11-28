@@ -1,0 +1,697 @@
+pid,sid,cid,titulo,duracion,clasificacion,puntuacion,año,numero,serie,genero
+,1.0,2.0,Episode 2,66,R,8.0,2019,1.0,Sex Education,Drama
+74.0,,,The Boxtrolls,96,NC-17,1.0,2014,,,Comedia
+6.0,,,Fahrenheit 451,100,G,3.0,2018,,,Ciencia ficción apocalíptica
+,20.0,124.0,Las aventuras de Supergirl,40,G,6.4,2015,2.0,Supergirl,Ciencia ficción
+,4.0,63.0,El viajero,20,PG-13,9.8,2007,7.0,Naruto Shippuden,Aventura
+27.0,,,42,128,G,6.7,2013,,,Drama
+,8.0,89.0,Carla,58,R,5.8,2018,3.0,Élite,Thriller
+,5.0,73.0,Materia oscura,54,PG-13,9.9,2017,2.0,Dark,Drama
+41.0,,,The Mechanic,93,G,8.7,2011,,,Acción
+,2.0,8.0,El del pulgar,21,PG,9.5,1994,1.0,Friends,Comedia
+45.0,,,The Tree of Life,139,PG-13,7.4,2011,,,Fantasía
+42.0,,,Prince of Persia: The Sands of Time,116,PG,2.4,2010,,,Fantasía
+,5.0,75.0,Los sobrevivientes,59,PG-13,9.9,2017,3.0,Dark,Drama
+,28.0,147.0,Pilot,40,PG-13,8.0,2007,1.0,Gossip Girl,Drama
+30.0,,,Captain America: The First Avenger,124,PG,4.1,2011,,,Aventura
+98.0,,,The Babymakers,95,NC-17,6.6,2012,,,Comedia
+79.0,,,R.I.P.D.,96,PG-13,5.1,2013,,,Comedia
+,4.0,55.0,Pesadilla,21,PG-13,9.8,2007,3.0,Naruto Shippuden,Acción
+32.0,,,Drunkboat,98,PG,8.6,2010,,,Drama
+,6.0,79.0,Relox,32,G,10.0,2003,2.0,31 minutos,Familiar
+,7.0,86.0,Hemos vuelto,50,PG-13,8.0,2017,3.0,La Casa de Papel,Thriller
+,27.0,146.0,The Birthday,49,PG-13,9.2,2009,3.0,The Vampire Diaries,Drama
+52.0,,,Chasing 3000,115,G,9.8,2010,,,Familiar
+51.0,,,Barry Munday,95,PG,5.0,2010,,,Comedia
+,3.0,37.0,El maestro del juego,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Fantasía
+,3.0,38.0,El hombre del pilar,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Acción
+,5.0,73.0,Materia oscura,54,PG-13,9.9,2017,2.0,Dark,Ciencia ficción
+,23.0,132.0,Pilot,22,PG,8.3,2013,1.0,Rick y Morty,
+,4.0,61.0,La pupila de la serpiente,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Acción
+,2.0,12.0,El de la leche materna,22,PG,9.5,1994,2.0,Friends,Comedia
+93.0,,,The Power of Few,96,G,4.5,2013,,,Acción
+,4.0,59.0,El precio del poder,20,PG-13,9.8,2007,5.0,Naruto Shippuden,Acción
+12.0,,,Tangled,100,PG,7.9,2010,,,Animación
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Comedia
+,20.0,124.0,Las aventuras de Supergirl,40,G,6.4,2015,2.0,Supergirl,Comedia
+,6.0,76.0,El comienzo,29,G,10.0,2003,1.0,31 minutos,Familiar
+46.0,,,Ant-Man,117,PG-13,7.4,2015,,,Comedia
+,17.0,114.0,La noche de un día difícil,40,R,8.7,2005,1.0,Grey's Anatomy,Comedia
+,25.0,139.0,Los que acechan bajo tierra,23,PG,8.6,2003,2.0,Full Metal Alchemist Brotherhood,Aventura
+,14.0,105.0,Partida x Y x Compañeros,24,G,7.5,2011,1.0,Hunter x Hunter,Acción
+90.0,,,She's Out of My League,104,G,9.6,2010,,,Comedia
+51.0,,,Barry Munday,95,PG,5.0,2010,,,Romance
+,12.0,99.0,El fin y el comienzo,20,G,10.0,2014,1.0,Haikyuu!!,Deporte
+,3.0,33.0,Juventud con dio,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Fantasía
+,3.0,48.0,Los Hermanos Nijimura (Parte 1),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Aventura
+60.0,,,Love & Other Drugs,112,PG-13,6.8,2010,,,Romance
+23.0,,,Puss in Boots,90,PG-13,4.0,2011,,,Animación
+7.0,,,A Walk Among the Tombstones,114,G,2.7,2014,,,Drama
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Fantasía oscura
+,1.0,68.0,Episode 4,65,R,8.0,2019,2.0,Sex Education,Romance
+,2.0,30.0,El de los Kips,22,PG,9.5,1994,5.0,Friends,Romance
+47.0,,,Season of the Witch,95,PG,2.6,2011,,,Acción
+,4.0,56.0,Viento,20,PG-13,9.8,2007,3.0,Naruto Shippuden,Drama
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Misterio
+,11.0,98.0,Si: soy la chica nueva,56,R,8.3,2017,3.0,13 reasons why,Thriller
+40.0,,,Tower Heist,104,PG-13,5.9,2011,,,Comedia
+,26.0,142.0,El estado avatar,24,G,7.9,2005,2.0,Avatar: la leyenda de Aang,Familiar
+99.0,,,Electric Slide,95,PG,6.7,2014,,,Biografía
+85.0,,,Thor,115,PG,10.0,2011,,,Fantasía
+,3.0,47.0,¡Josuke Higashikata! Conoce a Angelo,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Fantasía
+,3.0,37.0,El maestro del juego,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Aventura
+,2.0,12.0,El de la leche materna,22,PG,9.5,1994,2.0,Friends,Romance
+10.0,,,Motherless Brooklyn,144,PG-13,9.7,2019,,,Misterio
+,30.0,155.0,Smith y Jones,45,G,9.0,2005,2.0,Doctor Who,Ciencia ficción
+,26.0,141.0,El niño en el iceberg,24,G,7.9,2005,1.0,Avatar: la leyenda de Aang,Aventura
+,12.0,101.0,Saludos,21,G,10.0,2014,3.0,Haikyuu!!,Comedia
+83.0,,,13,91,PG-13,2.6,2010,,,Thriller
+,5.0,75.0,Los sobrevivientes,59,PG-13,9.9,2017,3.0,Dark,Thriller
+,2.0,21.0,El de la medusa,22,PG,9.5,1994,4.0,Friends,Romance
+,20.0,125.0,La mujer de acero,42,G,6.4,2015,3.0,Supergirl,Ciencia ficción
+65.0,,,What's Your Number?,106,G,1.4,2011,,,Comedia
+,8.0,89.0,Carla,58,R,5.8,2018,3.0,Élite,Misterio
+40.0,,,Tower Heist,104,PG-13,5.9,2011,,,Crimen
+,7.0,84.0,Efectuar lo acordado,50,PG-13,8.0,2017,1.0,La Casa de Papel,Thriller
+,13.0,103.0,Capítulo 14: Un beso antes de morir,60,PG-13,4.3,2017,2.0,Riverdale,Crimen
+59.0,,,Rings,102,G,7.3,2017,,,Misterio
+31.0,,,Sin City: A Dame to Kill For,102,PG,9.1,2014,,,Acción
+,5.0,71.0,Mentiras,44,PG-13,9.9,2017,1.0,Dark,Ciencia ficción
+,1.0,68.0,Episode 4,65,R,8.0,2019,2.0,Sex Education,Drama
+21.0,,,Before We Go,95,PG-13,9.1,2014,,,Drama
+,4.0,61.0,La pupila de la serpiente,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Drama
+,18.0,117.0,Panico en la fiesta del palacio,21,G,9.4,2010,1.0,Hora de aventura,Familiar
+,22.0,130.0,Episode 1,42,PG,8.6,2013,2.0,Peaky Blinders,Crimen
+,10.0,95.0,Empieza el juego,24,G,8.6,2015,3.0,My Hero Academia,Acción
+,10.0,94.0,Libreta de héroes,24,G,8.6,2015,2.0,My Hero Academia,Ciencia ficción
+,6.0,77.0,El arbol furioso,31,G,10.0,2003,1.0,31 minutos,Comedia
+15.0,,,The Stanford Prison Experiment,122,PG-13,1.2,2015,,,Histórico
+,27.0,145.0,The Return,49,PG-13,9.2,2009,2.0,The Vampire Diaries,Misterio
+,5.0,72.0,Principios y finales,53,PG-13,9.9,2017,2.0,Dark,Ciencia ficción
+,4.0,57.0,La amenaza que se acerca en silencio,20,PG-13,9.8,2007,4.0,Naruto Shippuden,Acción
+5.0,,,The Evil Within,98,PG-13,4.6,2017,,,Horror
+74.0,,,The Boxtrolls,96,NC-17,1.0,2014,,,Animación
+,30.0,154.0,Nueva tierra,46,G,9.0,2005,2.0,Doctor Who,Aventura
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Drama
+,8.0,87.0,Bienvenidos,60,R,5.8,2018,1.0,Élite,Misterio
+,4.0,58.0,La invasión de Akatsuki,21,PG-13,9.8,2007,4.0,Naruto Shippuden,Acción
+,29.0,152.0,Many Happy Returns,60,PG-13,9.2,2010,3.0,Sherlock,Crimen
+4.0,,,In My Sleep,104,PG,1.6,2010,,,Drama
+,3.0,32.0,Una carta del pasado,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Aventura
+,20.0,123.0,Más fuertes juntos,35,G,6.4,2015,1.0,Supergirl,Aventura
+,2.0,23.0,El de las esposas,24,PG,9.5,1994,4.0,Friends,Romance
+,4.0,64.0,El sucesor de la técnica prohibida,22,PG-13,9.8,2007,7.0,Naruto Shippuden,Aventura
+,20.0,124.0,Las aventuras de Supergirl,40,G,6.4,2015,2.0,Supergirl,Drama
+6.0,,,Fahrenheit 451,100,G,3.0,2018,,,Drama
+,11.0,97.0,La primera polaroid,62,R,8.3,2017,2.0,13 reasons why,Thriller sicológico
+,4.0,60.0,Un asunto shinobi,21,PG-13,9.8,2007,5.0,Naruto Shippuden,Acción
+56.0,,,Something Borrowed,112,PG-13,3.2,2011,,,Drama
+,1.0,1.0,Episode 1,62,R,8.0,2019,1.0,Sex Education,Romance
+,2.0,9.0,El de George Stephanopoulos,23,PG,9.5,1994,1.0,Friends,Comedia
+19.0,,,Satin,84,PG-13,5.8,2011,,,Drama
+,11.0,96.0,Casete 1: lado A,60,R,8.3,2017,1.0,13 reasons why,Drama
+87.0,,,It's Kind of a Funny Story,101,PG,8.1,2010,,,Drama
+,2.0,26.0,El de después de que Ross dijera el nombre de Rachel,22,PG,9.5,1994,5.0,Friends,Romance
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Aventura
+86.0,,,Devil's Knot,114,R,8.3,2013,,,Crimen
+,3.0,42.0,¡¿quién será el juez?!,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Acción
+,31.0,157.0,Psycho,45,NC-17,7.4,2015,2.0,Scream,Horror
+83.0,,,13,91,PG-13,2.6,2010,,,Drama
+89.0,,,The Do-Deca-Pentathlon,76,PG,9.4,2012,,,Comedia
+66.0,,,Jersey Justice,100,PG-13,6.3,2014,,,Thriller
+,6.0,76.0,El comienzo,29,G,10.0,2003,1.0,31 minutos,Comedia
+,28.0,149.0,Los contratiempos de la Fortuna,45,PG-13,8.0,2007,3.0,Gossip Girl,Drama
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Ciencia ficción apocalíptica
+,1.0,5.0,Episode 5,64,R,8.0,2019,1.0,Sex Education,Romance
+,4.0,53.0,El nuevo objetivo,22,PG-13,9.8,2007,2.0,Naruto Shippuden,Comedia
+,10.0,93.0,Midoriya Izuku: Origen,24,G,8.6,2015,1.0,My Hero Academia,Drama
+78.0,,,Jack Reacher,130,G,9.8,2012,,,Acción
+45.0,,,The Tree of Life,139,PG-13,7.4,2011,,,Drama
+,1.0,4.0,Episode 4,65,R,8.0,2019,1.0,Sex Education,Romance
+,9.0,92.0,Olding,58,PG-13,9.5,2016,3.0,The Crown,Drama
+36.0,,,House at the End of the Drive,91,G,1.1,2014,,,Horror
+61.0,,,Syrup,90,PG-13,2.6,2013,,,Romance
+,1.0,5.0,Episode 5,64,R,8.0,2019,1.0,Sex Education,Comedia
+,5.0,72.0,Principios y finales,53,PG-13,9.9,2017,2.0,Dark,Drama
+,2.0,20.0,El de Frank Jr.,26,PG,9.5,1994,3.0,Friends,Comedia
+,17.0,116.0,Llegó el momento,45,R,8.7,2005,3.0,Grey's Anatomy,Comedia
+82.0,,,Scary Movie 5,88,PG,7.2,2013,,,Horror
+87.0,,,It's Kind of a Funny Story,101,PG,8.1,2010,,,Comedia
+,22.0,129.0,Episode 1,40,PG,8.6,2013,1.0,Peaky Blinders,Drama
+20.0,,,Toy Story 3,103,G,1.1,2010,,,Animación
+14.0,,,Disconnect,112,PG-13,2.1,2010,,,Drama
+2.0,,,Life's a Beach,100,PG-13,9.0,2012,,,Comedia
+87.0,,,It's Kind of a Funny Story,101,PG,8.1,2010,,,Romance
+,4.0,53.0,El nuevo objetivo,22,PG-13,9.8,2007,2.0,Naruto Shippuden,Drama
+,9.0,91.0,Misadventure,60,PG-13,9.5,2016,2.0,The Crown,Histórico
+,3.0,39.0,Jojo vs. la forma de vida definitiva,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Aventura
+71.0,,,Santorini Blue,90,PG,6.7,2013,,,Comedia
+,4.0,52.0,El Akatsuki comienza a moverse,20,PG-13,9.8,2007,1.0,Naruto Shippuden,Aventura
+,3.0,39.0,Jojo vs. la forma de vida definitiva,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Acción
+,1.0,66.0,Episode 2,66,R,8.0,2019,2.0,Sex Education,Comedia
+,25.0,140.0,Interludio,23,PG,8.6,2003,3.0,Full Metal Alchemist Brotherhood,Ciencia ficción
+,17.0,115.0,Gotas de lluvia sobre mi cabeza,42,R,8.7,2005,2.0,Grey's Anatomy,Comedia
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Ciencia ficción
+20.0,,,Toy Story 3,103,G,1.1,2010,,,Comedia
+,1.0,65.0,Episode 1,62,R,8.0,2019,2.0,Sex Education,Comedia
+,3.0,39.0,Jojo vs. la forma de vida definitiva,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Fantasía
+,13.0,104.0,Capítulo 36: Día del Trabajo,62,PG-13,4.3,2017,3.0,Riverdale,Crimen
+,3.0,50.0,Los Hermanos Nijimura (Parte 3),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Aventura
+44.0,,,Extremely Loud & Incredibly Close,129,G,4.1,2011,,,Misterio
+22.0,,,A Bird of the Air,108,PG-13,5.1,2011,,,Drama
+,15.0,109.0,Empapada,62,PG-13,9.2,2017,2.0,Atypical,Drama
+,18.0,119.0,El recuerdo de un recuerdo,21,G,9.4,2010,3.0,Hora de aventura,Romance
+,28.0,148.0,Verano: una especie de maravilla,42,PG-13,8.0,2007,2.0,Gossip Girl,Drama
+77.0,,,Elliot Loves,92,G,1.9,2012,,,Comedia
+8.0,,,Jurassic World,124,G,7.8,2015,,,Ciencia ficción
+,18.0,119.0,El recuerdo de un recuerdo,21,G,9.4,2010,3.0,Hora de aventura,Familiar
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Drama
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Drama
+61.0,,,Syrup,90,PG-13,2.6,2013,,,Comedia
+100.0,,,Krystal,90,PG-13,2.0,2017,,,Drama
+,3.0,43.0,La maldición de dio,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Acción
+95.0,,,Priest,87,PG,3.8,2011,,,Thriller
+,21.0,126.0,Simpsons Roasting on an Open Fire,20,PG-13,9.1,1989,1.0,Los Simpsons,Comedia
+,4.0,60.0,Un asunto shinobi,21,PG-13,9.8,2007,5.0,Naruto Shippuden,Drama
+,5.0,75.0,Los sobrevivientes,59,PG-13,9.9,2017,3.0,Dark,Ciencia ficción
+,29.0,152.0,Many Happy Returns,60,PG-13,9.2,2010,3.0,Sherlock,Aventura
+,15.0,109.0,Empapada,62,PG-13,9.2,2017,2.0,Atypical,Comedia
+,16.0,111.0,Piloto,43,R,9.3,2004,1.0,Dr. House,Drama
+,6.0,77.0,El arbol furioso,31,G,10.0,2003,1.0,31 minutos,Familiar
+,14.0,105.0,Partida x Y x Compañeros,24,G,7.5,2011,1.0,Hunter x Hunter,Fantasía
+29.0,,,The Equalizer,132,PG,3.9,2014,,,Crimen
+48.0,,,Atlas Shrugged: Part I,97,G,3.3,2011,,,Drama
+,16.0,111.0,Piloto,43,R,9.3,2004,1.0,Dr. House,Comedia
+,26.0,143.0,El despertar,24,G,7.9,2005,3.0,Avatar: la leyenda de Aang,Comedia
+81.0,,,The Yellow Wallpaper,115,PG,5.3,2012,,,Thriller
+,4.0,58.0,La invasión de Akatsuki,21,PG-13,9.8,2007,4.0,Naruto Shippuden,Comedia
+60.0,,,Love & Other Drugs,112,PG-13,6.8,2010,,,Comedia
+,3.0,31.0,Dio: el invasor,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Fantasía
+,13.0,103.0,Capítulo 14: Un beso antes de morir,60,PG-13,4.3,2017,2.0,Riverdale,Misterio
+22.0,,,A Bird of the Air,108,PG-13,5.1,2011,,,Romance
+46.0,,,Ant-Man,117,PG-13,7.4,2015,,,Aventura
+,30.0,153.0,Rose,45,G,9.0,2005,1.0,Doctor Who,Drama
+,11.0,97.0,La primera polaroid,62,R,8.3,2017,2.0,13 reasons why,Drama
+,3.0,34.0,Overdrive,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Aventura
+,6.0,83.0,Cirugía,32,G,10.0,2003,4.0,31 minutos,Familiar
+,2.0,18.0,El de la mermelada,24,PG,9.5,1994,3.0,Friends,Comedia
+,23.0,134.0,The Rickshank Rickdemption,22,PG,8.3,2013,3.0,Rick y Morty,
+,6.0,79.0,Relox,32,G,10.0,2003,2.0,31 minutos,Comedia
+92.0,,,Valentine's Day,125,PG,5.3,2010,,,Comedia
+,22.0,129.0,Episode 1,40,PG,8.6,2013,1.0,Peaky Blinders,Histórico
+13.0,,,John Carter,132,NC-17,5.4,2012,,,Romance Planetario
+72.0,,,The Wolfman,103,G,4.5,2010,,,Fantasía
+41.0,,,The Mechanic,93,G,8.7,2011,,,Thriller
+,25.0,140.0,Interludio,23,PG,8.6,2003,3.0,Full Metal Alchemist Brotherhood,Fantasía
+54.0,,,Aftermath,84,PG-13,3.6,2013,,,Thriller
+,2.0,21.0,El de la medusa,22,PG,9.5,1994,4.0,Friends,Comedia
+38.0,,,Harlem Hostel,81,PG-13,3.7,2010,,,Comedia
+,2.0,22.0,El de la gata,26,PG,9.5,1994,4.0,Friends,Romance
+,26.0,142.0,El estado avatar,24,G,7.9,2005,2.0,Avatar: la leyenda de Aang,Aventura
+6.0,,,Fahrenheit 451,100,G,3.0,2018,,,Thriller
+,30.0,155.0,Smith y Jones,45,G,9.0,2005,2.0,Doctor Who,Drama
+,3.0,45.0,Silver Chariot,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Fantasía
+66.0,,,Jersey Justice,100,PG-13,6.3,2014,,,Acción
+,4.0,55.0,Pesadilla,21,PG-13,9.8,2007,3.0,Naruto Shippuden,Comedia
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Horror
+,26.0,142.0,El estado avatar,24,G,7.9,2005,2.0,Avatar: la leyenda de Aang,Comedia
+,3.0,40.0,Los guerreros definitivos de tiempos antiguos,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Fantasía
+,4.0,56.0,Viento,20,PG-13,9.8,2007,3.0,Naruto Shippuden,Comedia
+91.0,,,Flipped,90,PG-13,6.9,2010,,,Comedia
+,3.0,45.0,Silver Chariot,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Acción
+12.0,,,Tangled,100,PG,7.9,2010,,,Aventura
+,2.0,7.0,El de la ecografía final,20,PG,9.5,1994,1.0,Friends,Comedia
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Acción
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Ciencia ficción apocalíptica
+29.0,,,The Equalizer,132,PG,3.9,2014,,,Acción
+67.0,,,Cell,98,PG,8.8,2016,,,Drama
+,11.0,96.0,Casete 1: lado A,60,R,8.3,2017,1.0,13 reasons why,Thriller
+,22.0,131.0,Episode 1,41,PG,8.6,2013,3.0,Peaky Blinders,Drama
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Comedia
+79.0,,,R.I.P.D.,96,PG-13,5.1,2013,,,Aventura
+50.0,,,The Croods,98,G,5.3,2013,,,Aventura
+,25.0,139.0,Los que acechan bajo tierra,23,PG,8.6,2003,2.0,Full Metal Alchemist Brotherhood,Ciencia ficción
+,2.0,15.0,El de la carne para cinco y una berenjena,26,PG,9.5,1994,2.0,Friends,Romance
+,17.0,115.0,Gotas de lluvia sobre mi cabeza,42,R,8.7,2005,2.0,Grey's Anatomy,Drama
+,20.0,125.0,La mujer de acero,42,G,6.4,2015,3.0,Supergirl,Comedia
+26.0,,,Sludge,95,G,1.7,2017,,,Horror
+,13.0,102.0,Capítulo 1: Corrientes traicioneras,55,PG-13,4.3,2017,1.0,Riverdale,Crimen
+,4.0,56.0,Viento,20,PG-13,9.8,2007,3.0,Naruto Shippuden,Aventura
+,2.0,9.0,El de George Stephanopoulos,23,PG,9.5,1994,1.0,Friends,Romance
+,2.0,14.0,El esposo de Phoebe,24,PG,9.5,1994,2.0,Friends,Comedia
+,2.0,6.0,En el que todo empieza,22,PG,9.5,1994,1.0,Friends,Comedia
+1.0,,,Return to Babylon,75,G,7.1,2013,,,Biografía
+,14.0,106.0,Un x Guardián x Peligroso,24,G,7.5,2011,2.0,Hunter x Hunter,Comedia
+,22.0,129.0,Episode 1,40,PG,8.6,2013,1.0,Peaky Blinders,Thriller
+28.0,,,Being Flynn,102,PG,9.9,2012,,,Drama
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Aventura
+,5.0,72.0,Principios y finales,53,PG-13,9.9,2017,2.0,Dark,Thriller
+56.0,,,Something Borrowed,112,PG-13,3.2,2011,,,Romance
+,2.0,28.0,El de los trillizos,24,PG,9.5,1994,5.0,Friends,Romance
+37.0,,,Margaret,150,PG-13,1.7,2011,,,Drama
+,3.0,49.0,Los Hermanos Nijimura (Parte 2),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Fantasía
+54.0,,,Aftermath,84,PG-13,3.6,2013,,,Crimen
+,2.0,26.0,El de después de que Ross dijera el nombre de Rachel,22,PG,9.5,1994,5.0,Friends,Comedia
+,22.0,131.0,Episode 1,41,PG,8.6,2013,3.0,Peaky Blinders,Histórico
+55.0,,,The Invited,95,G,5.3,2010,,,Horror
+,4.0,57.0,La amenaza que se acerca en silencio,20,PG-13,9.8,2007,4.0,Naruto Shippuden,Aventura
+15.0,,,The Stanford Prison Experiment,122,PG-13,1.2,2015,,,Drama
+93.0,,,The Power of Few,96,G,4.5,2013,,,Crimen
+,4.0,57.0,La amenaza que se acerca en silencio,20,PG-13,9.8,2007,4.0,Naruto Shippuden,Drama
+73.0,,,The Last Full Measure,116,G,9.7,2019,,,Guerra
+,20.0,123.0,Más fuertes juntos,35,G,6.4,2015,1.0,Supergirl,Acción
+,27.0,144.0,Pilot,49,PG-13,9.2,2009,1.0,The Vampire Diaries,Drama
+8.0,,,Jurassic World,124,G,7.8,2015,,,Cyberpunk
+69.0,,,Drive,100,G,1.1,2011,,,Crimen
+,1.0,5.0,Episode 5,64,R,8.0,2019,1.0,Sex Education,Drama
+46.0,,,Ant-Man,117,PG-13,7.4,2015,,,Acción
+,10.0,94.0,Libreta de héroes,24,G,8.6,2015,2.0,My Hero Academia,Acción
+,14.0,106.0,Un x Guardián x Peligroso,24,G,7.5,2011,2.0,Hunter x Hunter,Acción
+,9.0,91.0,Misadventure,60,PG-13,9.5,2016,2.0,The Crown,Drama
+,4.0,60.0,Un asunto shinobi,21,PG-13,9.8,2007,5.0,Naruto Shippuden,Comedia
+7.0,,,A Walk Among the Tombstones,114,G,2.7,2014,,,Acción
+,17.0,114.0,La noche de un día difícil,40,R,8.7,2005,1.0,Grey's Anatomy,Drama
+,1.0,3.0,Episode 3,59,R,8.0,2019,1.0,Sex Education,Comedia
+79.0,,,R.I.P.D.,96,PG-13,5.1,2013,,,Acción
+,7.0,86.0,Hemos vuelto,50,PG-13,8.0,2017,3.0,La Casa de Papel,Drama
+,13.0,102.0,Capítulo 1: Corrientes traicioneras,55,PG-13,4.3,2017,1.0,Riverdale,Misterio
+,1.0,67.0,Episode 3,59,R,8.0,2019,2.0,Sex Education,Comedia
+,10.0,95.0,Empieza el juego,24,G,8.6,2015,3.0,My Hero Academia,Drama
+,2.0,19.0,El del túnel metafórico,22,PG,9.5,1994,3.0,Friends,Romance
+,3.0,35.0,Los caballeros oscuros,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Aventura
+58.0,,,Ramona and Beezus,104,G,5.4,2010,,,Familiar
+,2.0,23.0,El de las esposas,24,PG,9.5,1994,4.0,Friends,Comedia
+82.0,,,Scary Movie 5,88,PG,7.2,2013,,,Comedia
+,20.0,123.0,Más fuertes juntos,35,G,6.4,2015,1.0,Supergirl,Comedia
+84.0,,,The Dirt,107,PG-13,1.3,2019,,,Drama
+,2.0,27.0,El de los besos,24,PG,9.5,1994,5.0,Friends,Comedia
+,28.0,147.0,Pilot,40,PG-13,8.0,2007,1.0,Gossip Girl,Romance
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Horror
+80.0,,,Miles Ahead,100,G,5.6,2015,,,Drama
+,3.0,36.0,El jojo de nueva york,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Acción
+,30.0,155.0,Smith y Jones,45,G,9.0,2005,2.0,Doctor Who,Aventura
+25.0,,,The Passing,92,PG-13,2.2,2011,,,Horror
+,1.0,65.0,Episode 1,62,R,8.0,2019,2.0,Sex Education,Drama
+,3.0,33.0,Juventud con dio,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Aventura
+12.0,,,Tangled,100,PG,7.9,2010,,,Comedia
+31.0,,,Sin City: A Dame to Kill For,102,PG,9.1,2014,,,Crimen
+,3.0,46.0,¡Jotaro Kujo! Conoce a Josuke Higashikata,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Acción
+,16.0,112.0,Aceptación,42,R,9.3,2004,2.0,Dr. House,Comedia
+99.0,,,Electric Slide,95,PG,6.7,2014,,,Acción
+40.0,,,Tower Heist,104,PG-13,5.9,2011,,,Acción
+,3.0,46.0,¡Jotaro Kujo! Conoce a Josuke Higashikata,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Fantasía
+,15.0,110.0,Los mejores planes,59,PG-13,9.2,2017,3.0,Atypical,Drama
+,18.0,118.0,Llegó de la Nocheósfera,21,G,9.4,2010,2.0,Hora de aventura,Aventura
+,3.0,50.0,Los Hermanos Nijimura (Parte 3),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Acción
+,7.0,86.0,Hemos vuelto,50,PG-13,8.0,2017,3.0,La Casa de Papel,Crimen
+80.0,,,Miles Ahead,100,G,5.6,2015,,,Música
+27.0,,,42,128,G,6.7,2013,,,Biografía
+,18.0,118.0,Llegó de la Nocheósfera,21,G,9.4,2010,2.0,Hora de aventura,Familiar
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Comedia
+,27.0,145.0,The Return,49,PG-13,9.2,2009,2.0,The Vampire Diaries,Thriller
+,4.0,54.0,¡Formación: el nuevo equipo Kakashi!,20,PG-13,9.8,2007,2.0,Naruto Shippuden,Aventura
+3.0,,,'77,113,G,2.1,2017,,,Drama
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Acción
+,4.0,59.0,El precio del poder,20,PG-13,9.8,2007,5.0,Naruto Shippuden,Aventura
+,4.0,59.0,El precio del poder,20,PG-13,9.8,2007,5.0,Naruto Shippuden,Drama
+,20.0,125.0,La mujer de acero,42,G,6.4,2015,3.0,Supergirl,Aventura
+,4.0,54.0,¡Formación: el nuevo equipo Kakashi!,20,PG-13,9.8,2007,2.0,Naruto Shippuden,Comedia
+,3.0,41.0,un hombre poseído por un espíritu maligno,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Fantasía
+59.0,,,Rings,102,G,7.3,2017,,,Horror
+91.0,,,Flipped,90,PG-13,6.9,2010,,,Drama
+21.0,,,Before We Go,95,PG-13,9.1,2014,,,Comedia
+,4.0,54.0,¡Formación: el nuevo equipo Kakashi!,20,PG-13,9.8,2007,2.0,Naruto Shippuden,Acción
+,12.0,99.0,El fin y el comienzo,20,G,10.0,2014,1.0,Haikyuu!!,Comedia
+17.0,,,Dinner for Schmucks,114,G,5.1,2010,,,Comedia
+,3.0,44.0,Tower of gray,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Aventura
+,2.0,24.0,El de los bailes de salón,24,PG,9.5,1994,4.0,Friends,Romance
+42.0,,,Prince of Persia: The Sands of Time,116,PG,2.4,2010,,,Aventura
+72.0,,,The Wolfman,103,G,4.5,2010,,,Drama
+,4.0,60.0,Un asunto shinobi,21,PG-13,9.8,2007,5.0,Naruto Shippuden,Aventura
+,3.0,41.0,un hombre poseído por un espíritu maligno,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Acción
+35.0,,,The Devil You Know,76,G,2.0,2013,,,Thriller
+58.0,,,Ramona and Beezus,104,G,5.4,2010,,,Drama
+11.0,,,Anderson's Cross,98,PG,4.2,2010,,,Comedia
+,2.0,13.0,El de cuando muere Heckles,23,PG,9.5,1994,2.0,Friends,Romance
+,19.0,122.0,Los siete magníficos,58,PG-13,8.5,2005,3.0,Supernatural,Aventura
+30.0,,,Captain America: The First Avenger,124,PG,4.1,2011,,,Ciencia ficción
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Misterio
+,7.0,85.0,Se acabaron las máscaras,50,PG-13,8.0,2017,2.0,La Casa de Papel,Thriller
+,8.0,87.0,Bienvenidos,60,R,5.8,2018,1.0,Élite,Thriller
+68.0,,,Night Catches Us,90,PG,7.4,2010,,,Romance
+57.0,,,CHIPS,100,PG,3.6,2017,,,Acción
+,1.0,2.0,Episode 2,66,R,8.0,2019,1.0,Sex Education,Romance
+,4.0,62.0,Ojo de halcón,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Acción
+,2.0,17.0,El de cuando nadie está listo,22,PG,9.5,1994,3.0,Friends,Romance
+,27.0,145.0,The Return,49,PG-13,9.2,2009,2.0,The Vampire Diaries,Drama
+,27.0,144.0,Pilot,49,PG-13,9.2,2009,1.0,The Vampire Diaries,Misterio
+53.0,,,Red Tails,125,G,5.2,2012,,,Drama
+,3.0,34.0,Overdrive,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Fantasía
+24.0,,,Mad World,98,PG,7.0,2010,,,Drama
+,4.0,61.0,La pupila de la serpiente,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Comedia
+,3.0,49.0,Los Hermanos Nijimura (Parte 2),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Aventura
+,16.0,113.0,Sentido,44,R,9.3,2004,3.0,Dr. House,Drama
+,2.0,29.0,El que Phoebe odia la PBS,26,PG,9.5,1994,5.0,Friends,Comedia
+,12.0,100.0,¡Vamos a Tokyo!,22,G,10.0,2014,2.0,Haikyuu!!,Comedia
+,9.0,90.0,Wolferton Splash,62,PG-13,9.5,2016,1.0,The Crown,Histórico
+,3.0,42.0,¡¿quién será el juez?!,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Aventura
+91.0,,,Flipped,90,PG-13,6.9,2010,,,Romance
+,4.0,64.0,El sucesor de la técnica prohibida,22,PG-13,9.8,2007,7.0,Naruto Shippuden,Acción
+,6.0,81.0,La maquina del tiempo,31,G,10.0,2003,3.0,31 minutos,Familiar
+1.0,,,Return to Babylon,75,G,7.1,2013,,,Comedia
+74.0,,,The Boxtrolls,96,NC-17,1.0,2014,,,Aventura
+,6.0,83.0,Cirugía,32,G,10.0,2003,4.0,31 minutos,Comedia
+,27.0,144.0,Pilot,49,PG-13,9.2,2009,1.0,The Vampire Diaries,Thriller
+,3.0,34.0,Overdrive,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Acción
+29.0,,,The Equalizer,132,PG,3.9,2014,,,Thriller
+42.0,,,Prince of Persia: The Sands of Time,116,PG,2.4,2010,,,Acción
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Acción
+,25.0,140.0,Interludio,23,PG,8.6,2003,3.0,Full Metal Alchemist Brotherhood,Aventura
+,14.0,106.0,Un x Guardián x Peligroso,24,G,7.5,2011,2.0,Hunter x Hunter,Fantasía
+68.0,,,Night Catches Us,90,PG,7.4,2010,,,Drama
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Misterio
+,1.0,65.0,Episode 1,62,R,8.0,2019,2.0,Sex Education,Romance
+,3.0,33.0,Juventud con dio,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Acción
+,2.0,20.0,El de Frank Jr.,26,PG,9.5,1994,3.0,Friends,Romance
+84.0,,,The Dirt,107,PG-13,1.3,2019,,,Biografía
+,2.0,15.0,El de la carne para cinco y una berenjena,26,PG,9.5,1994,2.0,Friends,Comedia
+,2.0,11.0,El de la nueva novia de Ross,25,PG,9.5,1994,2.0,Friends,Romance
+,20.0,125.0,La mujer de acero,42,G,6.4,2015,3.0,Supergirl,Drama
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Comedia
+,4.0,58.0,La invasión de Akatsuki,21,PG-13,9.8,2007,4.0,Naruto Shippuden,Drama
+52.0,,,Chasing 3000,115,G,9.8,2010,,,Deporte
+86.0,,,Devil's Knot,114,R,8.3,2013,,,Biografía
+,22.0,130.0,Episode 1,42,PG,8.6,2013,2.0,Peaky Blinders,Thriller
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Acción
+,1.0,1.0,Episode 1,62,R,8.0,2019,1.0,Sex Education,Comedia
+,10.0,94.0,Libreta de héroes,24,G,8.6,2015,2.0,My Hero Academia,Drama
+36.0,,,House at the End of the Drive,91,G,1.1,2014,,,Thriller
+,17.0,116.0,Llegó el momento,45,R,8.7,2005,3.0,Grey's Anatomy,Drama
+,29.0,150.0,Estudio en rosa,60,PG-13,9.2,2010,1.0,Sherlock,Thriller
+,6.0,78.0,Vacaciones,34,G,10.0,2003,2.0,31 minutos,Familiar
+6.0,,,Fahrenheit 451,100,G,3.0,2018,,,Ciencia ficción
+,2.0,24.0,El de los bailes de salón,24,PG,9.5,1994,4.0,Friends,Comedia
+13.0,,,John Carter,132,NC-17,5.4,2012,,,Ciencia ficción
+,1.0,69.0,Episode 5,64,R,8.0,2019,2.0,Sex Education,Romance
+,3.0,48.0,Los Hermanos Nijimura (Parte 1),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Acción
+70.0,,,Kid Cannabis,110,PG,8.9,2014,,,Biografía
+65.0,,,What's Your Number?,106,G,1.4,2011,,,Romance
+86.0,,,Devil's Knot,114,R,8.3,2013,,,Drama
+,2.0,13.0,El de cuando muere Heckles,23,PG,9.5,1994,2.0,Friends,Comedia
+85.0,,,Thor,115,PG,10.0,2011,,,Aventura
+,4.0,59.0,El precio del poder,20,PG-13,9.8,2007,5.0,Naruto Shippuden,Comedia
+,16.0,112.0,Aceptación,42,R,9.3,2004,2.0,Dr. House,Drama
+14.0,,,Disconnect,112,PG-13,2.1,2010,,,Cyberpunk
+,3.0,44.0,Tower of gray,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Acción
+,3.0,47.0,¡Josuke Higashikata! Conoce a Angelo,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Acción
+,4.0,62.0,Ojo de halcón,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Aventura
+,22.0,129.0,Episode 1,40,PG,8.6,2013,1.0,Peaky Blinders,Crimen
+62.0,,,A Thousand Words,91,PG-13,5.2,2012,,,Comedia
+,4.0,51.0,El regreso a casa,22,PG-13,9.8,2007,1.0,Naruto Shippuden,Acción
+,11.0,96.0,Casete 1: lado A,60,R,8.3,2017,1.0,13 reasons why,Thriller sicológico
+16.0,,,Venus & Vegas,95,PG-13,7.8,2010,,,Crimen
+,3.0,41.0,un hombre poseído por un espíritu maligno,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Aventura
+,13.0,102.0,Capítulo 1: Corrientes traicioneras,55,PG-13,4.3,2017,1.0,Riverdale,Drama
+,6.0,82.0,La mona lisa,32,G,10.0,2003,4.0,31 minutos,Comedia
+61.0,,,Syrup,90,PG-13,2.6,2013,,,Drama
+,4.0,62.0,Ojo de halcón,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Comedia
+,3.0,35.0,Los caballeros oscuros,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Fantasía
+,3.0,46.0,¡Jotaro Kujo! Conoce a Josuke Higashikata,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Aventura
+,18.0,117.0,Panico en la fiesta del palacio,21,G,9.4,2010,1.0,Hora de aventura,Aventura
+,11.0,97.0,La primera polaroid,62,R,8.3,2017,2.0,13 reasons why,Thriller
+,2.0,22.0,El de la gata,26,PG,9.5,1994,4.0,Friends,Comedia
+,18.0,118.0,Llegó de la Nocheósfera,21,G,9.4,2010,2.0,Hora de aventura,Romance
+,9.0,92.0,Olding,58,PG-13,9.5,2016,3.0,The Crown,Histórico
+30.0,,,Captain America: The First Avenger,124,PG,4.1,2011,,,Acción
+,10.0,95.0,Empieza el juego,24,G,8.6,2015,3.0,My Hero Academia,Ciencia ficción
+49.0,,,Hall Pass,105,PG-13,3.7,2011,,,Romance
+,26.0,141.0,El niño en el iceberg,24,G,7.9,2005,1.0,Avatar: la leyenda de Aang,Comedia
+48.0,,,Atlas Shrugged: Part I,97,G,3.3,2011,,,Misterio
+101.0,,,Scream,111,NC-17,7.0,1996,,,Slasher
+,5.0,70.0,Secretos,51,PG-13,9.9,2017,1.0,Dark,Ciencia ficción
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Comedia
+,2.0,30.0,El de los Kips,22,PG,9.5,1994,5.0,Friends,Comedia
+,8.0,88.0,20 horas desaparecido,55,R,5.8,2018,2.0,Élite,Drama
+96.0,,,Maximum Ride,88,PG-13,3.9,2016,,,Comedia
+,7.0,84.0,Efectuar lo acordado,50,PG-13,8.0,2017,1.0,La Casa de Papel,Crimen
+,5.0,74.0,Deja vu,60,PG-13,9.9,2017,3.0,Dark,Thriller
+,29.0,151.0,Escándalo en Belgravia,60,PG-13,9.2,2010,2.0,Sherlock,Thriller
+,1.0,67.0,Episode 3,59,R,8.0,2019,2.0,Sex Education,Romance
+,5.0,71.0,Mentiras,44,PG-13,9.9,2017,1.0,Dark,Drama
+85.0,,,Thor,115,PG,10.0,2011,,,Acción
+,4.0,63.0,El viajero,20,PG-13,9.8,2007,7.0,Naruto Shippuden,Drama
+48.0,,,Atlas Shrugged: Part I,97,G,3.3,2011,,,Cyberpunk
+97.0,,,Waking Madison,89,G,5.2,2010,,,Drama
+73.0,,,The Last Full Measure,116,G,9.7,2019,,,Drama
+,29.0,152.0,Many Happy Returns,60,PG-13,9.2,2010,3.0,Sherlock,Thriller
+64.0,,,Night of the Templar,101,PG,9.0,2013,,,Horror
+,4.0,54.0,¡Formación: el nuevo equipo Kakashi!,20,PG-13,9.8,2007,2.0,Naruto Shippuden,Drama
+,2.0,29.0,El que Phoebe odia la PBS,26,PG,9.5,1994,5.0,Friends,Romance
+,3.0,47.0,¡Josuke Higashikata! Conoce a Angelo,23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Aventura
+,25.0,138.0,El alquimista de acero,23,PG,8.6,2003,1.0,Full Metal Alchemist Brotherhood,Aventura
+,2.0,10.0,El del detergente de lavandería germano-oriental,22,PG,9.5,1994,1.0,Friends,Romance
+,23.0,133.0,A Rickle in Time,22,PG,8.3,2013,2.0,Rick y Morty,
+,3.0,32.0,Una carta del pasado,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Acción
+,5.0,70.0,Secretos,51,PG-13,9.9,2017,1.0,Dark,Drama
+,2.0,11.0,El de la nueva novia de Ross,25,PG,9.5,1994,2.0,Friends,Comedia
+,3.0,37.0,El maestro del juego,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Acción
+,2.0,14.0,El esposo de Phoebe,24,PG,9.5,1994,2.0,Friends,Romance
+,14.0,107.0,Respuesta de papa,24,G,7.5,2011,3.0,Hunter x Hunter,Comedia
+,25.0,139.0,Los que acechan bajo tierra,23,PG,8.6,2003,2.0,Full Metal Alchemist Brotherhood,Fantasía
+94.0,,,Dreamkiller,110,PG-13,8.5,2010,,,Fantasía oscura
+,15.0,108.0,Antártida,60,PG-13,9.2,2017,1.0,Atypical,Drama
+,1.0,66.0,Episode 2,66,R,8.0,2019,2.0,Sex Education,Drama
+,5.0,74.0,Deja vu,60,PG-13,9.9,2017,3.0,Dark,Drama
+,11.0,98.0,Si: soy la chica nueva,56,R,8.3,2017,3.0,13 reasons why,Drama
+64.0,,,Night of the Templar,101,PG,9.0,2013,,,Misterio
+72.0,,,The Wolfman,103,G,4.5,2010,,,Horror
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Horror
+,3.0,36.0,El jojo de nueva york,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Fantasía
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Acción
+23.0,,,Puss in Boots,90,PG-13,4.0,2011,,,Aventura
+43.0,,,Unstoppable,98,G,3.3,2010,,,Acción
+34.0,,,Satan Hates You,94,NC-17,8.2,2010,,,Horror
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Acción
+1.0,,,Return to Babylon,75,G,7.1,2013,,,Drama
+,20.0,125.0,La mujer de acero,42,G,6.4,2015,3.0,Supergirl,Acción
+,22.0,130.0,Episode 1,42,PG,8.6,2013,2.0,Peaky Blinders,Histórico
+58.0,,,Ramona and Beezus,104,G,5.4,2010,,,Comedia
+95.0,,,Priest,87,PG,3.8,2011,,,Horror
+,21.0,127.0,"Bart Gets an ""F""",20,PG-13,9.1,1989,2.0,Los Simpsons,Comedia
+,13.0,103.0,Capítulo 14: Un beso antes de morir,60,PG-13,4.3,2017,2.0,Riverdale,Drama
+,2.0,16.0,El de la fantasía de la Princesa Leia,25,PG,9.5,1994,3.0,Friends,Comedia
+60.0,,,Love & Other Drugs,112,PG-13,6.8,2010,,,Drama
+,4.0,64.0,El sucesor de la técnica prohibida,22,PG-13,9.8,2007,7.0,Naruto Shippuden,Comedia
+,29.0,150.0,Estudio en rosa,60,PG-13,9.2,2010,1.0,Sherlock,Aventura
+83.0,,,13,91,PG-13,2.6,2010,,,Crimen
+62.0,,,A Thousand Words,91,PG-13,5.2,2012,,,Drama
+77.0,,,Elliot Loves,92,G,1.9,2012,,,Romance
+,15.0,108.0,Antártida,60,PG-13,9.2,2017,1.0,Atypical,Comedia
+59.0,,,Rings,102,G,7.3,2017,,,Drama
+11.0,,,Anderson's Cross,98,PG,4.2,2010,,,Drama
+,13.0,104.0,Capítulo 36: Día del Trabajo,62,PG-13,4.3,2017,3.0,Riverdale,Misterio
+67.0,,,Cell,98,PG,8.8,2016,,,Horror
+,4.0,53.0,El nuevo objetivo,22,PG-13,9.8,2007,2.0,Naruto Shippuden,Acción
+,19.0,120.0,Wendigo,55,PG-13,8.5,2005,1.0,Supernatural,Drama
+,6.0,80.0,Por el sr. manguera,28,G,10.0,2003,3.0,31 minutos,Comedia
+,3.0,36.0,El jojo de nueva york,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Aventura
+,3.0,44.0,Tower of gray,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Fantasía
+92.0,,,Valentine's Day,125,PG,5.3,2010,,,Romance
+50.0,,,The Croods,98,G,5.3,2013,,,Acción
+,1.0,3.0,Episode 3,59,R,8.0,2019,1.0,Sex Education,Drama
+30.0,,,Captain America: The First Avenger,124,PG,4.1,2011,,,Biopunk
+,3.0,35.0,Los caballeros oscuros,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Acción
+9.0,,,The Three Stooges,92,PG-13,2.1,2012,,,Comedia
+,4.0,53.0,El nuevo objetivo,22,PG-13,9.8,2007,2.0,Naruto Shippuden,Aventura
+,1.0,69.0,Episode 5,64,R,8.0,2019,2.0,Sex Education,Comedia
+44.0,,,Extremely Loud & Incredibly Close,129,G,4.1,2011,,,Aventura
+,11.0,98.0,Si: soy la chica nueva,56,R,8.3,2017,3.0,13 reasons why,Thriller sicológico
+18.0,,,A Million Little Pieces,113,PG-13,4.3,2018,,,Drama
+,2.0,28.0,El de los trillizos,24,PG,9.5,1994,5.0,Friends,Comedia
+,3.0,42.0,¡¿quién será el juez?!,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Fantasía
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Fantasía oscura
+56.0,,,Something Borrowed,112,PG-13,3.2,2011,,,Comedia
+,14.0,105.0,Partida x Y x Compañeros,24,G,7.5,2011,1.0,Hunter x Hunter,Comedia
+,2.0,6.0,En el que todo empieza,22,PG,9.5,1994,1.0,Friends,Romance
+33.0,,,The Only Living Boy in New York,89,PG,7.0,2017,,,Drama
+,14.0,107.0,Respuesta de papa,24,G,7.5,2011,3.0,Hunter x Hunter,Acción
+,25.0,138.0,El alquimista de acero,23,PG,8.6,2003,1.0,Full Metal Alchemist Brotherhood,Fantasía
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Fantasía oscura
+4.0,,,In My Sleep,104,PG,1.6,2010,,,Thriller
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Drama
+50.0,,,The Croods,98,G,5.3,2013,,,Animación
+4.0,,,In My Sleep,104,PG,1.6,2010,,,Thriller sicológico
+,8.0,89.0,Carla,58,R,5.8,2018,3.0,Élite,Drama
+80.0,,,Miles Ahead,100,G,5.6,2015,,,Biografía
+,26.0,143.0,El despertar,24,G,7.9,2005,3.0,Avatar: la leyenda de Aang,Familiar
+53.0,,,Red Tails,125,G,5.2,2012,,,Histórico
+,4.0,63.0,El viajero,20,PG-13,9.8,2007,7.0,Naruto Shippuden,Acción
+88.0,,,Jack and Jill,91,G,3.0,2011,,,Comedia
+,4.0,51.0,El regreso a casa,22,PG-13,9.8,2007,1.0,Naruto Shippuden,Comedia
+47.0,,,Season of the Witch,95,PG,2.6,2011,,,Fantasía
+,4.0,55.0,Pesadilla,21,PG-13,9.8,2007,3.0,Naruto Shippuden,Drama
+,11.0,97.0,La primera polaroid,62,R,8.3,2017,2.0,13 reasons why,Misterio
+100.0,,,Krystal,90,PG-13,2.0,2017,,,Comedia
+,11.0,98.0,Si: soy la chica nueva,56,R,8.3,2017,3.0,13 reasons why,Misterio
+,3.0,45.0,Silver Chariot,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Aventura
+,24.0,137.0,Señal de humo,23,PG-13,9.8,2010,3.0,Ataque a los titanes,Ciencia ficción
+,16.0,113.0,Sentido,44,R,9.3,2004,3.0,Dr. House,Comedia
+57.0,,,CHIPS,100,PG,3.6,2017,,,Comedia
+,19.0,121.0,En mi tiempo de morir,50,PG-13,8.5,2005,2.0,Supernatural,Comedia
+,4.0,55.0,Pesadilla,21,PG-13,9.8,2007,3.0,Naruto Shippuden,Aventura
+,3.0,32.0,Una carta del pasado,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Fantasía
+,3.0,49.0,Los Hermanos Nijimura (Parte 2),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Acción
+96.0,,,Maximum Ride,88,PG-13,3.9,2016,,,Acción
+10.0,,,Motherless Brooklyn,144,PG-13,9.7,2019,,,Drama
+,28.0,148.0,Verano: una especie de maravilla,42,PG-13,8.0,2007,2.0,Gossip Girl,Romance
+,4.0,51.0,El regreso a casa,22,PG-13,9.8,2007,1.0,Naruto Shippuden,Drama
+,29.0,150.0,Estudio en rosa,60,PG-13,9.2,2010,1.0,Sherlock,Crimen
+,8.0,88.0,20 horas desaparecido,55,R,5.8,2018,2.0,Élite,Misterio
+55.0,,,The Invited,95,G,5.3,2010,,,Thriller
+,8.0,88.0,20 horas desaparecido,55,R,5.8,2018,2.0,Élite,Thriller
+,3.0,48.0,Los Hermanos Nijimura (Parte 1),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Fantasía
+7.0,,,A Walk Among the Tombstones,114,G,2.7,2014,,,Crimen
+99.0,,,Electric Slide,95,PG,6.7,2014,,,Crimen
+49.0,,,Hall Pass,105,PG-13,3.7,2011,,,Comedia
+,26.0,141.0,El niño en el iceberg,24,G,7.9,2005,1.0,Avatar: la leyenda de Aang,Familiar
+,2.0,25.0,El de la nueva novia de Joey,26,PG,9.5,1994,4.0,Friends,Comedia
+,2.0,8.0,El del pulgar,21,PG,9.5,1994,1.0,Friends,Romance
+,27.0,145.0,The Return,49,PG-13,9.2,2009,2.0,The Vampire Diaries,Drama
+,12.0,101.0,Saludos,21,G,10.0,2014,3.0,Haikyuu!!,Deporte
+,11.0,96.0,Casete 1: lado A,60,R,8.3,2017,1.0,13 reasons why,Misterio
+9.0,,,The Three Stooges,92,PG-13,2.1,2012,,,Familiar
+90.0,,,She's Out of My League,104,G,9.6,2010,,,Romance
+76.0,,,Dallas Buyers Club,117,PG,4.9,2013,,,Biografía
+,31.0,156.0,Exposed,44,NC-17,7.4,2015,1.0,Scream,Horror
+,7.0,85.0,Se acabaron las máscaras,50,PG-13,8.0,2017,2.0,La Casa de Papel,Drama
+76.0,,,Dallas Buyers Club,117,PG,4.9,2013,,,Drama
+,10.0,93.0,Midoriya Izuku: Origen,24,G,8.6,2015,1.0,My Hero Academia,Ciencia ficción
+,18.0,119.0,El recuerdo de un recuerdo,21,G,9.4,2010,3.0,Hora de aventura,Aventura
+,4.0,51.0,El regreso a casa,22,PG-13,9.8,2007,1.0,Naruto Shippuden,Aventura
+,6.0,80.0,Por el sr. manguera,28,G,10.0,2003,3.0,31 minutos,Familiar
+,20.0,123.0,Más fuertes juntos,35,G,6.4,2015,1.0,Supergirl,Ciencia ficción
+,22.0,131.0,Episode 1,41,PG,8.6,2013,3.0,Peaky Blinders,Thriller
+,30.0,153.0,Rose,45,G,9.0,2005,1.0,Doctor Who,Aventura
+,13.0,104.0,Capítulo 36: Día del Trabajo,62,PG-13,4.3,2017,3.0,Riverdale,Drama
+101.0,,,Scream,111,NC-17,7.0,1996,,,Horror
+19.0,,,Satin,84,PG-13,5.8,2011,,,Comedia
+39.0,,,Smoking Nonsmoking,84,PG,3.2,2011,,,Drama
+,25.0,138.0,El alquimista de acero,23,PG,8.6,2003,1.0,Full Metal Alchemist Brotherhood,Ciencia ficción
+,27.0,146.0,The Birthday,49,PG-13,9.2,2009,3.0,The Vampire Diaries,Drama
+,1.0,66.0,Episode 2,66,R,8.0,2019,2.0,Sex Education,Romance
+,12.0,100.0,¡Vamos a Tokyo!,22,G,10.0,2014,2.0,Haikyuu!!,Deporte
+57.0,,,CHIPS,100,PG,3.6,2017,,,Crimen
+,2.0,27.0,El de los besos,24,PG,9.5,1994,5.0,Friends,Romance
+,28.0,149.0,Los contratiempos de la Fortuna,45,PG-13,8.0,2007,3.0,Gossip Girl,Romance
+95.0,,,Priest,87,PG,3.8,2011,,,Acción
+,2.0,19.0,El del túnel metafórico,22,PG,9.5,1994,3.0,Friends,Comedia
+38.0,,,Harlem Hostel,81,PG-13,3.7,2010,,,Drama
+,4.0,61.0,La pupila de la serpiente,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Aventura
+,30.0,154.0,Nueva tierra,46,G,9.0,2005,2.0,Doctor Who,Ciencia ficción
+,3.0,38.0,El hombre del pilar,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Aventura
+69.0,,,Drive,100,G,1.1,2011,,,Drama
+,5.0,70.0,Secretos,51,PG-13,9.9,2017,1.0,Dark,Thriller
+,7.0,84.0,Efectuar lo acordado,50,PG-13,8.0,2017,1.0,La Casa de Papel,Drama
+,3.0,31.0,Dio: el invasor,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Aventura
+63.0,,,The Legend of Secret Pass,92,G,8.9,2010,,,Animación
+70.0,,,Kid Cannabis,110,PG,8.9,2014,,,Crimen
+14.0,,,Disconnect,112,PG-13,2.1,2010,,,Misterio
+,3.0,40.0,Los guerreros definitivos de tiempos antiguos,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Acción
+8.0,,,Jurassic World,124,G,7.8,2015,,,Acción
+47.0,,,Season of the Witch,95,PG,2.6,2011,,,Aventura
+51.0,,,Barry Munday,95,PG,5.0,2010,,,Drama
+,2.0,18.0,El de la mermelada,24,PG,9.5,1994,3.0,Friends,Romance
+16.0,,,Venus & Vegas,95,PG-13,7.8,2010,,,Comedia
+,20.0,124.0,Las aventuras de Supergirl,40,G,6.4,2015,2.0,Supergirl,Acción
+53.0,,,Red Tails,125,G,5.2,2012,,,Acción
+,21.0,128.0,Stark Raving Dad,20,PG-13,9.1,1989,3.0,Los Simpsons,Comedia
+84.0,,,The Dirt,107,PG-13,1.3,2019,,,Comedia
+,9.0,90.0,Wolferton Splash,62,PG-13,9.5,2016,1.0,The Crown,Drama
+78.0,,,Jack Reacher,130,G,9.8,2012,,,Thriller
+,3.0,40.0,Los guerreros definitivos de tiempos antiguos,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Aventura
+63.0,,,The Legend of Secret Pass,92,G,8.9,2010,,,Fantasía
+93.0,,,The Power of Few,96,G,4.5,2013,,,Drama
+,29.0,151.0,Escándalo en Belgravia,60,PG-13,9.2,2010,2.0,Sherlock,Crimen
+,6.0,81.0,La maquina del tiempo,31,G,10.0,2003,3.0,31 minutos,Comedia
+13.0,,,John Carter,132,NC-17,5.4,2012,,,Acción
+23.0,,,Puss in Boots,90,PG-13,4.0,2011,,,Comedia
+,5.0,73.0,Materia oscura,54,PG-13,9.9,2017,2.0,Dark,Thriller
+20.0,,,Toy Story 3,103,G,1.1,2010,,,Aventura
+6.0,,,Fahrenheit 451,100,G,3.0,2018,,,Cyberpunk
+8.0,,,Jurassic World,124,G,7.8,2015,,,Aventura
+,1.0,68.0,Episode 4,65,R,8.0,2019,2.0,Sex Education,Comedia
+75.0,,,The Incredible Burt Wonderstone,100,PG,4.6,2013,,,Comedia
+70.0,,,Kid Cannabis,110,PG,8.9,2014,,,Comedia
+,1.0,69.0,Episode 5,64,R,8.0,2019,2.0,Sex Education,Drama
+,2.0,7.0,El de la ecografía final,20,PG,9.5,1994,1.0,Friends,Romance
+,4.0,58.0,La invasión de Akatsuki,21,PG-13,9.8,2007,4.0,Naruto Shippuden,Aventura
+94.0,,,Dreamkiller,110,PG-13,8.5,2010,,,Thriller
+,14.0,107.0,Respuesta de papa,24,G,7.5,2011,3.0,Hunter x Hunter,Fantasía
+,4.0,63.0,El viajero,20,PG-13,9.8,2007,7.0,Naruto Shippuden,Comedia
+,6.0,82.0,La mona lisa,32,G,10.0,2003,4.0,31 minutos,Familiar
+,22.0,131.0,Episode 1,41,PG,8.6,2013,3.0,Peaky Blinders,Crimen
+3.0,,,'77,113,G,2.1,2017,,,Comedia
+,20.0,123.0,Más fuertes juntos,35,G,6.4,2015,1.0,Supergirl,Drama
+48.0,,,Atlas Shrugged: Part I,97,G,3.3,2011,,,Ciencia ficción
+67.0,,,Cell,98,PG,8.8,2016,,,Acción
+,4.0,64.0,El sucesor de la técnica prohibida,22,PG-13,9.8,2007,7.0,Naruto Shippuden,Drama
+96.0,,,Maximum Ride,88,PG-13,3.9,2016,,,Aventura
+44.0,,,Extremely Loud & Incredibly Close,129,G,4.1,2011,,,Drama
+,3.0,43.0,La maldición de dio,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Aventura
+,30.0,154.0,Nueva tierra,46,G,9.0,2005,2.0,Doctor Who,Drama
+,22.0,130.0,Episode 1,42,PG,8.6,2013,2.0,Peaky Blinders,Drama
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Ciencia ficción apocalíptica
+,4.0,57.0,La amenaza que se acerca en silencio,20,PG-13,9.8,2007,4.0,Naruto Shippuden,Comedia
+,31.0,156.0,Exposed,44,NC-17,7.4,2015,1.0,Scream,Slasher
+,1.0,4.0,Episode 4,65,R,8.0,2019,1.0,Sex Education,Comedia
+,1.0,1.0,Episode 1,62,R,8.0,2019,1.0,Sex Education,Drama
+,4.0,52.0,El Akatsuki comienza a moverse,20,PG-13,9.8,2007,1.0,Naruto Shippuden,Drama
+31.0,,,Sin City: A Dame to Kill For,102,PG,9.1,2014,,,Thriller
+,30.0,153.0,Rose,45,G,9.0,2005,1.0,Doctor Who,Ciencia ficción
+15.0,,,The Stanford Prison Experiment,122,PG-13,1.2,2015,,,Biografía
+13.0,,,John Carter,132,NC-17,5.4,2012,,,Aventura
+,3.0,50.0,Los Hermanos Nijimura (Parte 3),23,PG,10.0,2012,4.0,Jojo's Bizarre Adventure,Fantasía
+35.0,,,The Devil You Know,76,G,2.0,2013,,,Misterio
+,10.0,93.0,Midoriya Izuku: Origen,24,G,8.6,2015,1.0,My Hero Academia,Acción
+63.0,,,The Legend of Secret Pass,92,G,8.9,2010,,,Familiar
+,8.0,87.0,Bienvenidos,60,R,5.8,2018,1.0,Élite,Drama
+,5.0,74.0,Deja vu,60,PG-13,9.9,2017,3.0,Dark,Ciencia ficción
+21.0,,,Before We Go,95,PG-13,9.1,2014,,,Romance
+,1.0,3.0,Episode 3,59,R,8.0,2019,1.0,Sex Education,Romance
+10.0,,,Motherless Brooklyn,144,PG-13,9.7,2019,,,Crimen
+,6.0,78.0,Vacaciones,34,G,10.0,2003,2.0,31 minutos,Comedia
+4.0,,,In My Sleep,104,PG,1.6,2010,,,Misterio
+27.0,,,42,128,G,6.7,2013,,,Deporte
+,4.0,52.0,El Akatsuki comienza a moverse,20,PG-13,9.8,2007,1.0,Naruto Shippuden,Acción
+,26.0,143.0,El despertar,24,G,7.9,2005,3.0,Avatar: la leyenda de Aang,Aventura
+,27.0,144.0,Pilot,49,PG-13,9.2,2009,1.0,The Vampire Diaries,Drama
+,18.0,117.0,Panico en la fiesta del palacio,21,G,9.4,2010,1.0,Hora de aventura,Romance
+,31.0,157.0,Psycho,45,NC-17,7.4,2015,2.0,Scream,Slasher
+,4.0,62.0,Ojo de halcón,20,PG-13,9.8,2007,6.0,Naruto Shippuden,Drama
+,7.0,85.0,Se acabaron las máscaras,50,PG-13,8.0,2017,2.0,La Casa de Papel,Crimen
+,3.0,38.0,El hombre del pilar,23,PG,10.0,2012,2.0,Jojo's Bizarre Adventure,Fantasía
+11.0,,,Anderson's Cross,98,PG,4.2,2010,,,Romance
+,29.0,151.0,Escándalo en Belgravia,60,PG-13,9.2,2010,2.0,Sherlock,Aventura
+,2.0,16.0,El de la fantasía de la Princesa Leia,25,PG,9.5,1994,3.0,Friends,Romance
+19.0,,,Satin,84,PG-13,5.8,2011,,,Música
+,5.0,71.0,Mentiras,44,PG-13,9.9,2017,1.0,Dark,Thriller
+,3.0,43.0,La maldición de dio,23,PG,10.0,2012,3.0,Jojo's Bizarre Adventure,Fantasía
+,2.0,17.0,El de cuando nadie está listo,22,PG,9.5,1994,3.0,Friends,Comedia
+16.0,,,Venus & Vegas,95,PG-13,7.8,2010,,,Acción
+,24.0,136.0,El titán bestia,23,PG-13,9.8,2010,2.0,Ataque a los titanes,Drama
+,1.0,67.0,Episode 3,59,R,8.0,2019,2.0,Sex Education,Drama
+,3.0,31.0,Dio: el invasor,23,PG,10.0,2012,1.0,Jojo's Bizarre Adventure,Acción
+,27.0,146.0,The Birthday,49,PG-13,9.2,2009,3.0,The Vampire Diaries,Misterio
+,4.0,56.0,Viento,20,PG-13,9.8,2007,3.0,Naruto Shippuden,Acción
+43.0,,,Unstoppable,98,G,3.3,2010,,,Thriller
+,15.0,110.0,Los mejores planes,59,PG-13,9.2,2017,3.0,Atypical,Comedia
+,24.0,135.0,A ti: 2.000 años en el futuro,23,PG-13,9.8,2010,1.0,Ataque a los titanes,Ciencia ficción
+,27.0,146.0,The Birthday,49,PG-13,9.2,2009,3.0,The Vampire Diaries,Thriller
+,1.0,4.0,Episode 4,65,R,8.0,2019,1.0,Sex Education,Drama
+,20.0,124.0,Las aventuras de Supergirl,40,G,6.4,2015,2.0,Supergirl,Aventura
+,2.0,25.0,El de la nueva novia de Joey,26,PG,9.5,1994,4.0,Friends,Romance
+14.0,,,Disconnect,112,PG-13,2.1,2010,,,Ciencia ficción
+71.0,,,Santorini Blue,90,PG,6.7,2013,,,Drama
+,4.0,52.0,El Akatsuki comienza a moverse,20,PG-13,9.8,2007,1.0,Naruto Shippuden,Comedia
+,1.0,2.0,Episode 2,66,R,8.0,2019,1.0,Sex Education,Comedia
+,2.0,10.0,El del detergente de lavandería germano-oriental,22,PG,9.5,1994,1.0,Friends,Comedia
