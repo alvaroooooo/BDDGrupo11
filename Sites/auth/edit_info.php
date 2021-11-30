@@ -16,7 +16,7 @@ if (isset($_SESSION['username'])) {
           </div>
 
           <div class="mb-3 mt-3 w-100">
-            <label for="exampleInputPassword1" class="form-label" aria-autocomplete="off">Contraseña antigua</label>
+            <label for="exampleInputPassword1" class="form-label" aria-autocomplete="off">Contraseña actual</label>
             <input name="old_pass" type="password" class="form-control" id="exampleInputPassword1">
           </div>
 

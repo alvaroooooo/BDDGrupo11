@@ -12,6 +12,29 @@ $prov_info = proveedores_general($db);
   <div class="container mt-4">
     <div class="row">
       <div class="col-6">
+        <div class="card border-primary mb-4">
+          <p class="card-header text-center h4 text-primary"> 
+            Buscador de proveedores y peliculas/serie
+          </p>
+          <div class="card-body">
+            <form method="POST" action="./search_result.php" >
+              <div class="row">
+                <div class="col-6">
+                  <label class="form-label"> Pelicula o Serie </label>
+                  <input class="form-control" name="pelicula" placeholder="Ej: scream" >
+                </div>
+                <div class="col-6">
+                  <label class="form-label"> Proveedor </label>
+                  <input class="form-control" name="proveedor" placeholder="Ej: amazon" >
+                </div>
+              </div>
+              <div class="d-flex mt-4 mb-1 justify-content-center">
+                <button type="submit" class="btn btn-primary w-75"> Buscar </button>
+              </div>
+            </form>
+          </div>
+        </div>
+
         <table class="table-fixed">
           <thead>
             <tr class="head">

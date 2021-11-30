@@ -59,8 +59,8 @@ if (isset($_SESSION['nombre'])) {
                 <p class="card-title h6" style="margin: 30px 0px !important"> Tiempo total Películas: </p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> Tiempo total Series: </p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> Tiempo total Videojuegos: </p>
-                <p class="card-text h6" style="margin: 30px 0px !important"> 
-                Tiempo total usado: 
+                <p class="card-text h6" style="margin: 30px 0px !important">
+                  Tiempo total usado:
                 </p>
               </div>
               <div class="col-5">
@@ -88,7 +88,8 @@ if (isset($_SESSION['nombre'])) {
               <thead>
                 <tr class="head">
                   <!-- <th class="w-1/5"> Pelicula </th> -->
-                  <th class="w-1/5"> Proveedores de Peliculas </th>
+                  <th class="w-1/5"> Tus Streamings </th>
+                  <th class="w-1/5"> Inicio </th>
                 </tr>
               </thead>
               <tbody>
@@ -96,6 +97,7 @@ if (isset($_SESSION['nombre'])) {
                 foreach ($activeSubs as $key => $value) {
                   echo "<tr>";
                   echo "<td>" . $value[0] . "</td>";
+                  echo "<td>" . $value[1] . "</td>";
                   echo "</tr>";
                 }
                 ?>

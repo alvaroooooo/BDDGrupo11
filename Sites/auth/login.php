@@ -6,7 +6,6 @@ if ($request_method  === 'POST') {
     $user_email = $_POST['email'];
     $user_password = $_POST['password'];
     
-
     $result = validateLogin($db, $user_email, $user_password);
 
     // echo "<pre>";

@@ -5,20 +5,21 @@ function userSubscriptions($db, $userId){
                         SELECT * from subusuario 
                         WHERE uid = {$userId}), 
                         filter AS (
-                        SELECT sub_user.subs_id, subscripcion.estado
+                        SELECT sub_user.subs_id, subscripcion.estado, subscripcion.fecha_inicio
                         FROM subscripcion, sub_user
                         WHERE sub_user.subs_id = subscripcion.subs_id 
                         AND subscripcion.estado = 'activa'
                         ),
                         filter_2 AS (
-                        SELECT filter.subs_id, filter.estado,  subproveedor.pro_id
+                        SELECT filter.subs_id, filter.estado,  subproveedor.pro_id, filter.fecha_inicio
                         FROM filter, subproveedor
                         WHERE filter.subs_id = subproveedor.subs_id
                         )
 
-                        SELECT proveedor.nombre
+                        SELECT proveedor.nombre, filter_2.fecha_inicio
                         FROM filter_2, proveedor
-                        WHERE filter_2.pro_id = proveedor.pro_id;
+                        WHERE filter_2.pro_id = proveedor.pro_id
+                        ORDER BY filter_2.fecha_inicio;
                     ");
 
   $result = $sql -> execute();
