@@ -2,14 +2,18 @@
 include_once('./../__init__.php');
 include('./../layout/header2.php');
 include('./../Consultas/cOneTimeMovies.php');
+include('./buy.sql');
+
+use PostgreSQLTutorial\Connection as Connection;
+use PostgreSQLTutorial\StoreProc as StoreProc;
 
 $all_movies = all_movies($db);
 
 ?>
 
 
-<div class="container" style="margin-top: 75px; margin-bottom: 20px;">
-  <h1 class="text-primary mt-1 mb-3"> Películas </h1>
+<div class="container" style="margin-top: 70px; margin-bottom: 20px;">
+  <h1 class="text-primary mt-2 mb-4"> Películas </h1>
 
   <div class="row">
     <div class="col-6">
@@ -95,25 +99,40 @@ $all_movies = all_movies($db);
         <?php }
         ?>
         </div>
-
         <?php
         if (($request_method === 'POST') and ($_POST['tipo'] == 1)) {
-          echo "Comprar Juego";
           if (isset($_SESSION['username'])) {
             $result = checkifusergame($db, $_POST["id_game"], $_SESSION['uid']);
-            echo $result;
             if ($result == TRUE) {
-              # Ejecutar funcion
+              $id_user = $_SESSION['uid'];
+              $prov_name = $_POST["provedor"];
+              list($price, $id_prov) = game_info($db2, $id_game, $prov_name);
+              $date = date('y-m-d');
+              register_purchase($db2, $id_user, $date, $price, $id_game, $id_prov);
             }
           }
         }
         if (($request_method === 'POST') and ($_POST['tipo'] == 2)) {
-          echo "Comprar Pelicula";
           if (isset($_SESSION['username'])) {
             $result = checkifusergame($db2, $_POST["id_movie"], $_SESSION['uid']);
-            echo $result;
             if ($result == TRUE) {
-              # Ejecutar funcion
+              $id_user = $_SESSION['uid'];
+              $id_movie = $_POST["id_movie"];
+              $prov_name = $_POST["provedor"];
+              $id_pro = name_prov($db, $prov_name);
+              $price = get_price($db, $id_movie, $id_pro);
+              $date = date('y-m-d');
+              try {
+                // connect to the PostgreSQL database
+                $pdo = Connection::get()->connect();
+                // 
+                $storeProc = new StoreProc($pdo);
+
+                $result = $storeProc->purchase($id_user, $id_movie, $id_pro, $price, $date);
+                echo $result;
+              } catch (\PDOException $e) {
+                echo $e->getMessage();
+              }
             }
           }
         }
@@ -121,6 +140,7 @@ $all_movies = all_movies($db);
     </div>
   </div>
 </div>
+
 
 
 <?php

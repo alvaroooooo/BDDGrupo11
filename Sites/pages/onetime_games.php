@@ -7,9 +7,8 @@ $all_games = all_games($db2);
 
 ?>
 
-<div class="container" style="margin-top: 75px; margin-bottom: 20px;">
-  <h1 class="text-primary mb-3 mt-1"> Juegos </h1>
-
+<div class="container" style="margin-top: 70px; margin-bottom: 20px;">
+  <h1 class="text-primary mt-2 mb-4"> Juegos </h1>
   <div class="row">
     <div class="col-6">
       <table class="table-fixed">
@@ -75,7 +74,7 @@ $all_games = all_games($db2);
                   foreach ($info_game as $key => $value) {
                     echo "<tr>";
                     echo "<td>" . $value['name'] . "</td>";
-                    echo "<td>" . $vaslue['platform'] . "</td>";
+                    echo "<td>" . $value['platform'] . "</td>";
                     echo "<td>" . $value['price'] . "</td>";
                   ?>
                     <td>
@@ -87,41 +86,44 @@ $all_games = all_games($db2);
                         <button type="submit" class="btn btn-outline-success"> Comprar </button>
                       </form>
                     </td>
-                  <?php echo "</tr>";
-                  } ?>
+                  <?php echo "</tr>"; } ?>
                 </tbody>
               </table>
             </div>
           </div>
-        <?php }
-        ?>
         </div>
-        <?php
-        if (($request_method === 'POST') and ($_POST['tipo'] == 1)) {
-          echo "Comprar Juego";
-          if (isset($_SESSION['username'])) {
-            $result = checkifusergame($db, $_POST["id_game"], $_SESSION['uid']);
-            echo $result;
-            if ($result == TRUE) {
-              # Ejecutar funcion
-            }
-          }
-        }
-        if (($request_method === 'POST') and ($_POST['tipo'] == 2)) {
-          echo "Comprar Pelicula";
-          if (isset($_SESSION['username'])) {
-            $result = checkifusergame($db2, $_POST["id_movie"], $_SESSION['uid']);
-            echo $result;
-            if ($result == TRUE) {
-              # Ejecutar funcion
-            }
-          }
-        }
-        ?>
-
+      <?php }
+      ?>
     </div>
   </div>
 </div>
+
+<?php
+if (($request_method === 'POST') and ($_POST['tipo'] == 1)) {
+  if (isset($_SESSION['username'])) {
+    $result = checkifusergame($db, $_POST["id_game"], $_SESSION['uid']);
+    if ($result == TRUE) {
+      $id_user = $_SESSION['uid'];
+      $prov_name = $_POST["provedor"];
+      list($price, $id_prov) = game_info($db2, $id_game, $prov_name);
+      $date = date('y-m-d');
+      register_purchase($db2, $id_user, $date, $price, $id_game, $id_prov);
+    }
+  }
+}
+if (($request_method === 'POST') and ($_POST['tipo'] == 2)) {
+  if (isset($_SESSION['username'])) {
+    $result = checkifusergame($db2, $_POST["id_movie"], $_SESSION['uid']);
+    if ($result == TRUE) {
+      $proc = new StoreProc($db);
+      $result = $proc->purchase();
+    }
+  }
+}
+?>
+
+
+
 
 <?php
 include('./../layout/footer.html')

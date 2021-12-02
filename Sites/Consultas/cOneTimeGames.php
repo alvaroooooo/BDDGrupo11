@@ -49,11 +49,39 @@ function checkifusergame($db, $id_game, $id_user) {
     return array($anwser);
 };
 
-function register_purchase($db, $id_user, $date, $price, $preorder, $id_game, $id_pro) {
+function register_purchase($db, $id_user, $date, $price, $id_game, $id_pro) {
   $sql = $db -> prepare(
-    "INSERT INTO $db.Pagovideojuego VALUES ($price, $date, $id_user, $preorder, $id_pro, $id_game"
+    "INSERT INTO $db.Pagovideojuego VALUES ($price, $date, $id_user, 'False', $id_pro, $id_game"
   );
   $result = $sql->execute();
+};
+
+function game_info($db, $id_game, $prov_name){
+  $sql = $db -> prepare(
+    "SELECT videojuego.price
+    from videojuego
+    WHERE videojuego.id = $id_game");
+
+  $result1 = $sql->execute();
+  $result1 = $sql->fetchAll();
+
+  foreach($result as $p) {
+    $price = $p;
+  };
+
+  $sql2 = $db -> prepare(
+    "SELECT provedor.id
+    from provedor
+    WHERE provedor.name = $prov_name");
+
+  $result2 = $sql2->execute();
+  $result2 = $sql2->fetchAll();
+
+  foreach($result2 as $prov) {
+    $prov_id = $prov;
+  };
+
+  return array($price, $prov_id);
 }
 
 
