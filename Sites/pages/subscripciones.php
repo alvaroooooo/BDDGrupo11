@@ -57,6 +57,7 @@ $prov_info = proveedores_general($db);
               <td>
                 <form method="POST">
                   <input type="hidden" name="id_prov" value=<?php echo $value['pro_id'] ?> />
+                  <input type="hidden" name="tipo" value=<?php echo 0 ?> />
                   <button type="submit" class="btn btn-outline-success"> +Info </button>
                 </form>
               </td>
@@ -71,7 +72,7 @@ $prov_info = proveedores_general($db);
       <div class="col-6">
         <?php
         $request_method = filter_input(INPUT_SERVER, 'REQUEST_METHOD');
-        if ($request_method === 'POST') {
+        if (($request_method === 'POST') and ($_POST['tipo'] == 0)) {
           $id_proveedor = $_POST['id_prov'];
           list($infoPeli, $infoSerie) = proveedor_particular($db, $id_proveedor);
         ?>

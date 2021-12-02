@@ -25,11 +25,23 @@
 
       <?php
       if (isset($_SESSION["username"])) {
-      ?>
-        <div class="justify-content-end">
+        if ($_SESSION['email'] == "admin@admin.cl") {
+          ?>
+          <div class="justify-content-end">
+            <a href="/~grupo11/auth/personal_info.php" class="btn btn-outline-primary me-3"> <?php echo $_SESSION['nombre']; ?> </a>
+            <a href="/~grupo11/auth/logout.php" class="btn btn-outline-warning me-5"> Logout </a>
+            <a href="/~grupo11/auth/logout.php" class="btn btn-outline-warning me-5"> Cambiar contraseña </a>
+          </div>
+        <?php
+        } else {
+        ?>
+          <div class="justify-content-end">
           <a href="/~grupo11/auth/personal_info.php" class="btn btn-outline-primary me-3"> <?php echo $_SESSION['nombre']; ?> </a>
           <a href="/~grupo11/auth/logout.php" class="btn btn-outline-warning me-5"> Logout </a>
         </div>
+        <?php
+        }
+        ?>
       <?php
       } else {
       ?>

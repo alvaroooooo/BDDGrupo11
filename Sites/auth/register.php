@@ -1,6 +1,6 @@
 <body>
   <?php
-  include("./../layout/header.php"); //require
+  include("./../layout/header2.php"); //require
   ?>
 
   <div class="container mt-5 card w-50 px-5 py-2 border-primary">

@@ -10,7 +10,7 @@ if (isset($_SESSION['username'])) {
 
     <div style="margin-top: 150px; margin-bottom: 150px;">
       <div class="container mt-5 card w-50 px-5 py-2 border-primary">
-        <form class="align-items-center">
+        <form class="align-items-center" method="POST" action="./changePass.php">
           <div class="mt-4 mb-4 text-center">
             <p class="text-primary h2"> Editar contraseña </p>
           </div>

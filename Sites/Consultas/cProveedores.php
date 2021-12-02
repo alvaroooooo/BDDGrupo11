@@ -28,6 +28,18 @@ function userSubscriptions($db, $userId){
   return $result;
 };
 
+function userSubsGames($db2, $userId) {
+  $query = $db2 -> prepare(
+    "SELECT provedor.name
+    FROM comprador, provedor
+    WHERE (comprador.id_user = {$userId}) and (provedor.id = comprador.id_suplair)");
+  
+  $result = $query -> execute();
+  $result = $query -> fetchAll();
+  
+  return $result;
+};
+
 function timeSpendPeli($db, $userId){
   $sql2 = $db -> prepare(
     "WITH view_user AS (
@@ -64,5 +76,22 @@ function timeSpendSerie($db, $userId){
   return $result[0][1];
 }
 
+function timeSpendGames($db2, $userId){
+  $query = "WITH horas as (
+        SELECT id_user, sum(Juegosusuario.hours)
+        FROM Juegosusuario
+        GROUP BY id_user
+        )
+        SELECT horas.sum AS tiempo FROM horas 
+        WHERE horas.id_user = {$userId};";
+  $result = $db2->prepare($query);
+  $result->execute();
+  $dataCollected = $result->fetchAll();
+  if (empty($dataCollected[0])){
+    return 0;
+  } else {
+  return $dataCollected[0]['tiempo'];
+  };
+}
 
 ?>

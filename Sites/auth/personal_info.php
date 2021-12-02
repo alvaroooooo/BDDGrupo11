@@ -9,9 +9,10 @@ if (isset($_SESSION['nombre'])) {
   <?php
   // Acá poner las funciones de php
   $activeSubs = userSubscriptions($db, $_SESSION['uid']);
+  $provJuegos = userSubsGames($db2, $_SESSION['uid']);
   $tiempoPeli = timeSpendPeli($db, $_SESSION['uid']);
   $tiempoSerie = timeSpendSerie($db, $_SESSION['uid']);
-  $tiempoVideoJuego = 0;
+  $tiempoVideoJuego = timeSpendGames($db2, $_SESSION['uid']);
   $totalTime = $tiempoPeli + $tiempoSerie + $tiempoVideoJuego;
   ?>
   <br />
@@ -59,14 +60,12 @@ if (isset($_SESSION['nombre'])) {
                 <p class="card-title h6" style="margin: 30px 0px !important"> Tiempo total Películas: </p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> Tiempo total Series: </p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> Tiempo total Videojuegos: </p>
-                <p class="card-text h6" style="margin: 30px 0px !important">
-                  Tiempo total usado:
-                </p>
+                <p class="card-text h6" style="margin: 30px 0px !important"> Tiempo total usado: </p>
               </div>
               <div class="col-5">
                 <p class="card-title h6" style="margin: 30px 0px !important"> <?php echo $tiempoPeli ?> </p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> <?php echo $tiempoSerie ?> </p>
-                <p class="card-text h6" style="margin: 30px 0px !important"> <?php echo "info" ?> </p>
+                <p class="card-text h6" style="margin: 30px 0px !important"> <?php echo $tiempoVideoJuego ?></p>
                 <p class="card-text h6" style="margin: 30px 0px !important"> <?php echo $totalTime ?> </p>
               </div>
             </div>
@@ -80,7 +79,7 @@ if (isset($_SESSION['nombre'])) {
         <div class="card border-success mb-4 mt-3" style="max-width: 40rem; width: 30rem; min-width: 25rem">
           <div class="card-header text-success text-center">
             <span class="text-success h3">
-              Tus Streaming y Juegos
+              Tus Streaming
             </span>
           </div>
           <div class="card-body text-secondary ps-3 pe-3 d-flex justify-content-center">
@@ -98,6 +97,35 @@ if (isset($_SESSION['nombre'])) {
                   echo "<tr>";
                   echo "<td>" . $value[0] . "</td>";
                   echo "<td>" . $value[1] . "</td>";
+                  echo "</tr>";
+                }
+                ?>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card border-success mb-4 mt-3" style="max-width: 40rem; width: 30rem; min-width: 25rem">
+          <div class="card-header text-success text-center">
+            <span class="text-success h3">
+              Tus Juegos
+            </span>
+          </div>
+          <div class="card-body d-flex justify-content-center">
+            <table class="table table-striped w-75">
+              <thead>
+                <tr class="head">
+                  <!-- <th class="w-1/5"> Pelicula </th> -->
+                  <th class="w-1/5"> Tus Proveedores de Juegos </th>
+                  <!-- <th class="w-1/5"> Inicio </th> -->
+                </tr>
+              </thead>
+              <tbody>
+                <?php //
+                foreach ($provJuegos as $key => $value) {
+                  echo "<tr>";
+                  echo "<td>" . $value[0] . "</td>";
+                  //echo "<td>" . $value[1] . "</td>";
                   echo "</tr>";
                 }
                 ?>
